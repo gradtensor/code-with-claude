@@ -17,7 +17,7 @@ uv run python day-01-prompting/hello_claude.py
 - Final line: `model=claude-sonnet-4-6 in=... out=... cost~$0.000... ...ms`
 - A file appears at `traces/<today>.jsonl` containing one JSON record.
 
-**Cost:** ~$0.0001. **Time:** under 10 seconds.
+**Cost:** ~$0.001. **Time:** under 10 seconds.
 
 If this fails, your `.env` or API key is wrong. Fix that before anything else.
 
@@ -56,7 +56,7 @@ uv run python capstone/v1-prompt/analyst.py /tmp/tiny.txt
 
 Expected: entities `["Sarah", "Acme"]`, no risks.
 
-**Cost:** ~$0.005. **Time:** 15-25 seconds.
+**Cost:** ~$0.02. **Time:** 15-25 seconds.
 
 ## Test 3: Before/after comparison
 
@@ -77,7 +77,7 @@ uv run python day-01-prompting/before_after.py
 
 If both outputs look structured, the ad-hoc prompt got lucky and the contrast is muted. The `AD_HOC_PROMPT` constant in `before_after.py` needs to be weakened.
 
-**Cost:** ~$0.01 (two calls). **Time:** 25-45 seconds.
+**Cost:** ~$0.04 (two calls). **Time:** 25-45 seconds.
 
 ## Sanity checks (no API cost)
 
@@ -108,7 +108,7 @@ Expected: "Copy .env.example to .env" message, exit code 1, no traceback.
 
 ## Total cost
 
-Running all three tests once: roughly 2 to 3 US cents.
+Running all three tests once: roughly 5 to 7 US cents at current Sonnet 4.6 pricing. Numbers vary with output length.
 
 ## Use in training
 

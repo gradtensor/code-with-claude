@@ -96,11 +96,17 @@ def main() -> None:
     console.print()
 
     pct_diff = ((len(after_text) - len(before_text)) / max(len(before_text), 1)) * 100
+    length_phrase = (
+        f"{pct_diff:.0f}% longer" if pct_diff >= 0 else f"{abs(pct_diff):.0f}% shorter"
+    )
     tok_diff = (a_in + a_out) - (b_in + b_out)
+    token_phrase = (
+        f"used {tok_diff} more tokens" if tok_diff >= 0 else f"used {abs(tok_diff)} fewer tokens"
+    )
     before_shape = "structured JSON" if _is_json(before_text) else "unstructured prose"
     after_shape = "structured JSON" if _is_json(after_text) else "unstructured prose"
     console.print(
-        f"GCAO output is {pct_diff:+.0f}% longer, used {tok_diff:+d} more tokens, "
+        f"GCAO output is {length_phrase}, {token_phrase}, "
         f"{after_shape} vs {before_shape}."
     )
 
