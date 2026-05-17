@@ -1,8 +1,65 @@
 # Day 1 tests
 
-How to verify that the Day 1 build works end to end. Use this before publishing the post and as a hands-on segment in the training session.
+How to verify that the Day 1 build works end to end. Use it to gate changes before shipping, or as a hands-on segment in a workshop.
 
 Run from the repo root. All commands assume `.env` exists with a valid `ANTHROPIC_API_KEY`.
+
+## What each test demonstrates
+
+Three tests, three different things being proven. The progression matters.
+
+### Test 1: "Does the plumbing work?"
+
+This is not a test of Claude. It is a test of whether you are correctly set up to use Claude. Every layer of the toolchain runs end to end: uv installs the right packages, python-dotenv reads `.env`, your API key is valid, the anthropic SDK reaches the model, the streaming response renders through rich, and the `shared.tracing` module writes a JSONL record.
+
+A single working API call across all of those layers in under three seconds for a tenth of a US cent. The equivalent of `git --version` or `docker run hello-world`. Every subsequent test depends on this passing.
+
+In a workshop, this is the "everyone got into the building" check. If a participant's smoke test fails, nothing else they do today will work.
+
+### Test 2: "Can a prompt alone do real work?"
+
+This proves three things, in increasing strictness:
+
+1. **The model returns valid JSON.** If the response is markdown, free-form prose, or malformed JSON, `json.loads()` dies. Valid JSON means the GCAO template's `<output>` section is tight enough that the model stays inside the contract.
+2. **The JSON matches the schema.** `DocumentAnalysis.model_validate()` rejects any response missing `entities`, `summary`, `key_points`, or `risks`, or with the wrong types. Pydantic passing means the model honoured every field requested.
+3. **The content is grounded.** The panels match the source document. Every entity, key point, and risk is actually in the text. The `<action>` section's "Do not invent facts" instruction holds up.
+
+The big claim: you can build a working document analyst with nothing but a well-engineered prompt. No tools, no retrieval, no agent loop. That is the whole point of capstone v1, and it is the foundational claim of Day 1. Structure in the prompt produces structure in the output, and that is often enough to ship.
+
+The lesson: before reaching for an agent framework, reach for a better prompt.
+
+### Test 3: "Why does GCAO matter?"
+
+Same input. Two prompts. One ad-hoc ("Analyse this document and tell me what's important"), one GCAO-engineered. Run both. Compare the outputs side by side. This is the teaching moment of the whole post.
+
+The ad-hoc prompt produces a beautifully formatted markdown report: headers, bullets, a decision-points table, an "Overall Assessment" section. A human would love reading it. A program cannot do anything with it. There is no schema, no parseable structure, no contract.
+
+The GCAO prompt produces a single JSON object. A human would not want to read it raw. But a Pydantic model can validate it, a database can store it, a downstream system can route on its fields, and a regression suite can score it.
+
+Both answers are factually correct. The difference is not quality of analysis. It is **shape**. And shape is what determines whether you have a demo or a system.
+
+The numbers reveal something quietly important: the GCAO output is often *shorter* and at *similar cost* to the ad-hoc output. Structure is not more expensive. A detailed system prompt costs more on input tokens. But it also constrains the output, which usually saves more tokens than it spent.
+
+### The progression
+
+The three tests form a narrative arc:
+
+1. **Test 1** establishes a baseline: you can call Claude.
+2. **Test 2** raises the bar: you can call Claude in a way that produces validated, structured, grounded outputs from nothing but a prompt.
+3. **Test 3** shows the cost of *not* doing (2): the same effort, the same money, but an output you cannot build a system on top of.
+
+Call, structure, contrast. Run them in that order in a live session and the punchline lands on its own.
+
+### Why this matters for the rest of the series
+
+Every later day depends on structured prompt outputs:
+
+- Day 3 (agents) needs structured tool calls.
+- Day 4 (patterns) needs structured intermediate results to chain.
+- Day 6 (evals) needs structured outputs to score against.
+- Day 7 (orchestration) needs structured outputs to route through queues.
+
+A production agent cannot run on free-form prose. Day 1 proves why with a concrete, runnable demonstration that costs about a US nickel. Everything else in the series is a refinement of what Day 1 established.
 
 ## Test 1: Smoke test
 
