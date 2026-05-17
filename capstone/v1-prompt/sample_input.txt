@@ -1,0 +1,40 @@
+Q3 2026 Business Update - Internal
+
+To: Leadership team
+From: Maya Rodriguez, COO
+Date: 14 October 2026
+
+This memo summarises Q3 results and flags items requiring leadership attention ahead of the Q4 planning offsite.
+
+Financial highlights
+Q3 closed with total revenue of $14.7M, up 23% year-over-year and 8% above plan. ARR grew to $58.2M, driven primarily by expansion within our enterprise tier. Gross margin held at 74%, in line with Q2. Operating expenses came in at $11.1M, 4% under budget largely due to delayed hiring in the platform team. Net loss for the quarter was $0.4M, narrower than the planned $1.1M loss.
+
+Sales and pipeline
+We closed 47 new logos, including three Fortune 500 accounts: Brennan Industries, Hightower Energy, and Pearmont Financial. The Pearmont contract is our largest deal to date at $1.8M annual contract value. The sales team, now led by VP Sales Tomas Bremer, expanded by six account executives in Q3. Pipeline coverage for Q4 sits at 3.1x quota, healthy but below our 3.5x target. The Asia-Pacific pipeline is materially weaker than expected. We attribute this to delays in launching the regional partner programme, which is now nine weeks behind plan.
+
+Product
+The Helios platform shipped its 4.0 release on 22 September, on schedule. Customer adoption of the new workflow engine has been strong: 38% of active accounts have created at least one Helios 4.0 workflow within four weeks of release. The Aurora analytics module, originally slated for late Q3, has slipped to late October. The slip is due to a security review that surfaced two issues in the data export pipeline. CTO Reema Iyer's team is addressing both; a fix is expected to ship on 28 October.
+
+Engineering and infrastructure
+The migration of our primary database from PostgreSQL 13 to PostgreSQL 16 completed in early August with no customer-visible downtime. The team has begun planning a multi-region active-active deployment, targeted for Q2 2027. We hired 11 engineers in Q3 against a plan of 18. The platform team is short three senior backend engineers, which is impacting roadmap velocity.
+
+Customer success
+NPS for the quarter was 47, up from 41 in Q2. We renewed 96% of accounts up for renewal, with net revenue retention at 118%. Two notable churn events in Q3 deserve attention. Greylock Logistics, with an annual contract value of $420K, churned due to integration limitations with their SAP environment. Beacon Health, at $310K annual contract value, churned citing concerns about the timing of our SOC 2 Type II report. Customer Success VP Adaeze Okonkwo has commissioned a post-mortem on both accounts, with findings due by 31 October. Of our top 20 accounts by ARR, three are flagged yellow in our health scoring: Carrick Manufacturing, Northbridge Capital, and Velmar Telecom. Each has a clear path to green with focused executive attention this quarter.
+
+Compliance and security
+The SOC 2 Type II audit window closed on 30 September. The auditor's report is expected by mid-November. Preliminary findings suggest two non-material observations, both with remediation plans in place. The Beacon Health churn highlighted that enterprise prospects increasingly expect our SOC 2 report to be readily available. Legal is drafting a process to share it under NDA more efficiently.
+
+Hiring and people
+Headcount ended Q3 at 184, up from 167 at the start of the quarter. Voluntary attrition for the quarter was 4.1%, below industry benchmark. We promoted four engineers and two account executives in the September cycle. The platform team's hiring gap is now the single largest constraint on our roadmap. We have engaged two new recruiters specifically for this team.
+
+Strategic items for Q4 discussion
+1. Asia-Pacific go-to-market: the regional partner programme is nine weeks behind schedule. We need to decide whether to push the launch to Q1 2027 or fund a direct-sales attempt for the region.
+2. Aurora analytics: now slipped to late October. We should decide whether to soft-launch with the original feature set or delay until a planned January refresh.
+3. Hiring: the platform team's three open senior roles are the rate-limiter on Q4 velocity. Consider whether to authorise above-band compensation to close the gap faster.
+4. SOC 2 process: legal will propose a streamlined NDA-gated sharing process at the offsite.
+
+Cash and runway
+We ended Q3 with $42.1M in cash. At current burn, runway extends to mid-2028. The Q4 board meeting will review whether to open a Series C conversation in H1 2027 or extend the current cash position through revenue growth alone. Both options are viable; the decision turns on appetite for the dilution involved in a raise versus the slower hiring posture required to extend.
+
+Closing
+Q3 was a strong quarter on the numbers, with notable wins in enterprise sales and product release execution. The areas that need leadership attention are concentrated in Asia-Pacific go-to-market, platform team hiring, and the Aurora schedule slip. The two enterprise churn events also warrant a careful read once the post-mortem lands. I look forward to discussing all of these at the Q4 offsite next week.
