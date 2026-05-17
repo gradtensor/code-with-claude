@@ -2,6 +2,8 @@
 
 The Union Budget 2026-27 speech delivered by the Finance Minister of India. Publicly available document, used as the recurring exercise input across the series.
 
+See RATIONALE.md for why this document was chosen and how it threads through each day of the series.
+
 ## Files
 
 - `budget_speech.docx` - the original document, as released by the Ministry of Finance.
