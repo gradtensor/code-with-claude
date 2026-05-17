@@ -102,16 +102,9 @@ The output should be grounded in the sample document. Look for:
 - `pydantic.ValidationError` or `json.JSONDecodeError`: the model deviated from the JSON schema. The prompt needs hardening.
 - Entities or risks that aren't in the document: the model is fabricating. The prompt's "Do not invent facts" instruction needs more weight.
 
-**Edge case: empty risks**
+**A note on variance**
 
-A short document with no risks should produce an empty `risks` array, not invented ones.
-
-```
-echo "Met with Sarah from Acme today. She mentioned the Q4 launch is on track." > /tmp/tiny.txt
-uv run python capstone/v1-prompt/analyst.py /tmp/tiny.txt
-```
-
-Expected: entities `["Sarah", "Acme"]`, no risks.
+Two runs on the same input will not produce identical output. Wording shifts, items reorder, occasionally a borderline entity is included or dropped. The list above is what *should generally* appear, not a strict checksum. If two or three items differ run to run, that is normal. If half the list is missing, something is wrong.
 
 **Cost:** ~$0.02. **Time:** 15-25 seconds.
 
@@ -128,7 +121,13 @@ uv run python day-01-prompting/before_after.py
 - The **shape difference** is obvious:
   - Before: prose, bullets, headers, conversational.
   - After: a JSON object starting with `{` and ending with `}`.
-- The final summary line reads something like: `GCAO output is +25% longer, used +200 more tokens, structured JSON vs unstructured prose.` The numbers will vary; the **"structured JSON vs unstructured prose"** half is the teaching point.
+- The final summary line reads something like: `GCAO output is 12% shorter, used 522 more tokens, structured JSON vs unstructured prose.`
+
+**A note on variance**
+
+The numeric deltas in the summary line vary significantly between runs because the ad-hoc output is unbounded. One run may show "+25% longer", the next "-12% shorter", the next "+40% longer". This is normal and does not indicate a bug. Workshop participants should not panic if their numbers differ from a previous run.
+
+The **"structured JSON vs unstructured prose"** half of the line is what is reproducible, and it is the only half that matters for the teaching point. If that part flips (both runs show "JSON vs JSON" or "prose vs prose"), the test is not working as intended.
 
 **Failure mode**
 
