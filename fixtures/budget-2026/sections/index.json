@@ -1,0 +1,142 @@
+[
+  {
+    "id": "intro.budget_overview",
+    "title": "Budget overview and the three kartavyas",
+    "summary": "Speech opener, macro framing, and the three-kartavya structure (growth, aspirations, inclusion) that organises the rest of Part A.",
+    "filename": "intro.budget_overview.txt",
+    "char_count": 4887
+  },
+  {
+    "id": "manufacturing.strategic_sectors",
+    "title": "Scaling up manufacturing in 7 strategic sectors",
+    "summary": "Biopharma SHAKTI, ISM 2.0, Electronics Components, Rare Earth Corridors, Chemical Parks, and Capital Goods schemes with specific outlays.",
+    "filename": "manufacturing.strategic_sectors.txt",
+    "char_count": 3063
+  },
+  {
+    "id": "manufacturing.textile_integrated_programme",
+    "title": "Textile, sports goods, and village industries",
+    "summary": "Integrated Textile Programme with five sub-parts, Mega Textile Parks, Mahatma Gandhi Gram Swaraj, and a sports goods manufacturing initiative.",
+    "filename": "manufacturing.textile_integrated_programme.txt",
+    "char_count": 1611
+  },
+  {
+    "id": "industry.legacy_clusters_and_msmes",
+    "title": "Legacy industrial clusters and Champion MSMEs",
+    "summary": "Revival of 200 legacy industrial clusters and a three-pronged Champion MSMEs approach: equity (SME Growth Fund), liquidity (TReDS), and professional support.",
+    "filename": "industry.legacy_clusters_and_msmes.txt",
+    "char_count": 1751
+  },
+  {
+    "id": "infrastructure.capex_freight_aviation_energy_cities",
+    "title": "Infrastructure, energy, and city economic regions",
+    "summary": "Public capex trajectory, Infrastructure Risk Guarantee Fund, REITs, freight corridors, seaplanes, ₹20,000 crore CCUS outlay, City Economic Regions framework, and seven High-Speed Rail corridors.",
+    "filename": "infrastructure.capex_freight_aviation_energy_cities.txt",
+    "char_count": 3545
+  },
+  {
+    "id": "finance.banking_bonds_ease_and_ai",
+    "title": "Financial sector, capital markets, and AI",
+    "summary": "High Level Committee on Banking, NBFC restructuring, FEMA review, corporate and municipal bond reforms, PROI investment limits, ease of doing business, and emerging technologies.",
+    "filename": "finance.banking_bonds_ease_and_ai.txt",
+    "char_count": 2530
+  },
+  {
+    "id": "welfare.education_to_employment_and_health",
+    "title": "Education-to-employment, health, and AYUSH",
+    "summary": "High-Powered E3 Standing Committee, Allied Health Professionals expansion, Care Ecosystem, medical value tourism hubs, and three new All India Institutes of Ayurveda.",
+    "filename": "welfare.education_to_employment_and_health.txt",
+    "char_count": 3221
+  },
+  {
+    "id": "welfare.livestock_avgc_design_and_telescopes",
+    "title": "Livestock, orange economy, design, and university townships",
+    "summary": "Veterinary college subsidy scheme, AVGC Content Creator Labs, new National Institute of Design, five University Townships, girls' hostels, and four telescope facilities.",
+    "filename": "welfare.livestock_avgc_design_and_telescopes.txt",
+    "char_count": 1876
+  },
+  {
+    "id": "welfare.tourism_heritage_and_sports",
+    "title": "Tourism, heritage, and sports",
+    "summary": "National Institute of Hospitality, guide upskilling, National Destination Digital Knowledge Grid, mountain and turtle trails, Global Big Cat Summit, 15 archaeological sites, and the Khelo India sports mission pathway.",
+    "filename": "welfare.tourism_heritage_and_sports.txt",
+    "char_count": 2821
+  },
+  {
+    "id": "agriculture.farmer_welfare_and_high_value_crops",
+    "title": "Agriculture: fisheries, animal husbandry, high-value crops",
+    "summary": "Third kartavya opening, fisheries development of 500 reservoirs, animal husbandry credit-linked subsidy, high-value crops including coconut, cashew, cocoa, sandalwood, and Bharat-VISTAAR AI advisory.",
+    "filename": "agriculture.farmer_welfare_and_high_value_crops.txt",
+    "char_count": 3314
+  },
+  {
+    "id": "welfare.women_divyangjan_mental_health_regional",
+    "title": "Women's livelihoods, Divyangjan, mental health, and regional development",
+    "summary": "Lakhpati Didi follow-on (SHE-Marts), Divyangjan Kaushal and Sahara Yojanas, NIMHANS-2 and Trauma Care Centres, and Purvodaya states with East Coast Industrial Corridor plus North-East Buddhist sites.",
+    "filename": "welfare.women_divyangjan_mental_health_regional.txt",
+    "char_count": 2419
+  },
+  {
+    "id": "fiscal.finance_commission_and_consolidation",
+    "title": "16th Finance Commission and fiscal consolidation",
+    "summary": "Acceptance of the 16th Finance Commission's 41% vertical devolution recommendation, debt-to-GDP trajectory toward 50%, fiscal deficit at 4.3% of GDP in BE 2026-27, and Revised and Budget Estimates.",
+    "filename": "fiscal.finance_commission_and_consolidation.txt",
+    "char_count": 2547
+  },
+  {
+    "id": "taxes.direct_new_income_tax_act_and_ease",
+    "title": "Direct Taxes: new Income Tax Act, ease of living, penalty rationalization",
+    "summary": "Introduction of the Income Tax Act, 2025 effective 1 April 2026, Direct Tax ease-of-living measures, and rationalisation of penalty and prosecution provisions.",
+    "filename": "taxes.direct_new_income_tax_act_and_ease.txt",
+    "char_count": 5596
+  },
+  {
+    "id": "taxes.direct_cooperatives_global_business_admin",
+    "title": "Direct Taxes: cooperatives, global business, tax administration",
+    "summary": "Cooperative sector tax relief, measures to attract global business and investment, tax administration reforms, and other direct tax proposals.",
+    "filename": "taxes.direct_cooperatives_global_business_admin.txt",
+    "char_count": 5962
+  },
+  {
+    "id": "taxes.indirect_overview_exemptions_exports",
+    "title": "Indirect Taxes: review of exemptions and export promotion",
+    "summary": "Indirect tax framing, review of exemptions and tariff simplification, and promotion of exports of marine, leather, and textile products.",
+    "filename": "taxes.indirect_overview_exemptions_exports.txt",
+    "char_count": 1467
+  },
+  {
+    "id": "taxes.indirect_energy_minerals_aviation_electronics",
+    "title": "Indirect Taxes: energy, critical minerals, aviation, electronics",
+    "summary": "Customs duty changes covering energy transition, nuclear power, critical minerals, biogas-blended CNG, civil and defence aviation, and electronics.",
+    "filename": "taxes.indirect_energy_minerals_aviation_electronics.txt",
+    "char_count": 2059
+  },
+  {
+    "id": "taxes.indirect_sez_ease_customs_exports",
+    "title": "Indirect Taxes: SEZs, customs process, ease of living",
+    "summary": "Special Economic Zone provisions, ease-of-living and ease-of-doing-business changes in customs, trust-based systems, new export opportunities, and customs process simplification.",
+    "filename": "taxes.indirect_sez_ease_customs_exports.txt",
+    "char_count": 4980
+  },
+  {
+    "id": "annexure.e3_committee_terms_of_reference",
+    "title": "Annexure to Part A: E3 Standing Committee Terms of Reference",
+    "summary": "Indicative Terms of Reference for the High-Level Education-to-Employment-and-Enterprise Standing Committee announced in Part A.",
+    "filename": "annexure.e3_committee_terms_of_reference.txt",
+    "char_count": 1184
+  },
+  {
+    "id": "annexure.direct_tax_amendments",
+    "title": "Annexure to Part B: Direct Tax amendments",
+    "summary": "Detailed clause-by-clause amendments relating to direct taxes, including rates, exemptions, and procedural changes.",
+    "filename": "annexure.direct_tax_amendments.txt",
+    "char_count": 29967
+  },
+  {
+    "id": "annexure.indirect_tax_amendments",
+    "title": "Annexure to Part B: Indirect Tax amendments",
+    "summary": "Detailed amendments relating to indirect taxes, including customs duty changes, tariff schedules, and NCCD revisions.",
+    "filename": "annexure.indirect_tax_amendments.txt",
+    "char_count": 41892
+  }
+]

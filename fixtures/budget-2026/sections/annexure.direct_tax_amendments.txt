@@ -1,0 +1,317 @@
+Annexure to Part B
+Amendments relating to Direct Taxes
+
+1.  EASE OF LIVING
+
+(i) Exemption of interest on compensation amount awarded by Motor Accident Claims Tribunal (MACT)
+
+- In order to alleviate the sufferings of victims of motor vehicle accident and their family, it is proposed that any interest awarded on compensation amount in the case of individual awarded by MACT shall be exempt.
+
+- It is also proposed that in case of an individual, no tax shall be deducted at source for such interest, irrespective of the amount of interest awarded by MACT.
+
+(ii) Removal of ambiguity on the application of rate of TDS on account of supply of manpower
+
+- It is proposed to include supply of manpower within the definition of “work” under section 402(47) of the Income-tax Act, 2025 so as to provide that tax on such supply of manpower shall be deducted at source as “payment to contractors” under the provisions of section 393(1) [Table: Sl. No. 6(i) and (ii)] and not under the provisions of “fee for professional services” under section 393(1) [Table: Sl. No. (iii)].
+
+(iii) Enabling electronic verification and issuance of certificate for deduction of income-tax at lower rate or no deduction of income-tax
+
+- It is proposed to ease the compliance burden of small taxpayers by providing an online option to the payee, to apply for issuance of certificate for lower or nil deduction of income-tax which is proposed to be issued online after electronic verification.
+
+(iv) Enabling filing of declaration for no deduction of tax at source under section 393(6) of the Income-tax Act, 2025 to the depository
+
+- It is proposed to allow filing of the declaration by a taxpayer for no deduction of tax at source, to a depository, where income is of the nature: (i) income from units of a mutual fund (ii) interest income from securities and (iii) dividends. This will address the present requirements of an investor to file separate declaration to different payers. The depositories shall in turn report such declarations to the person responsible for payment of such income
+
+- It is also proposed that the person responsible for paying such income shall furnish the declaration received by it from the taxpayer to the Department on quarterly basis rather on monthly basis as at present.
+
+(v) Extending time to file revised return or belated return.
+
+- Presently revised return can be filed upto 31^(st) December following the tax year. Return filing period extends upto October 31st for persons engaged in international transactions under section 92E. In this regard, it is proposed to allow extending the time of filing revised return upto 31^(st) March following the tax year. This revised return can be of original return or belated return. A nominal fee of Rs. 1000 or 5000 is also proposed where the revision of original or belated return is made after 31^(st) December depending upon whether the income is upto or more than Rs. 5 lakh.
+
+(vi) Change in due date of filing Income-tax Return for non-auditable business and trusts
+
+- It is proposed to provide staggered time line for filing of tax returns due on the 31^(st) of July. Individuals filing ITR 1 and ITR 2 shall continue to file tax returns by the 31^(st) July and for non-audit business cases or trusts, 31^(st) August shall be the due date.
+
+(vii) Reduction of compliance on sale of immovable property by non-resident to resident individual or HUF
+
+- It is proposed to provide that resident individual or HUF, shall not be required to obtain tax deduction and collection account number (TAN) to deduct tax at source in respect of any consideration on transfer of any immovable property by non-resident under section 393(2) [Table Sl. No. 17]. Instead, the deduction shall be reported by quoting the PAN in same manner as transaction of similar nature between two residents.
+
+(viii) Rationalising the due date to deposit employee contribution by the employer to claim such contribution as deduction
+
+- It is proposed that deduction of any amount of contribution received by the assessee being an employer, from an employee, shall be allowed as deduction in the hands of the assessee if such amount is credited by the assessee to the account of the employee, in any provident fund or superannuation fund or any fund set up under the provisions of the Employees’ State Insurance Act, on or before the due date of filing of his return of income under section 263(1) of the Act.
+
+(ix) Rationalising the provision related to computation of profits and gains of an insurance business other than life insurance business
+
+- It is proposed that any amount which had earlier been added to the income of non-life insurance business, as tax was not deducted or paid as per the provisions of section 35(b)(i) or (ii) of the Act, shall be allowed as deduction in the tax year in which tax is deducted or paid as per the provisions of section 35(b)(i) or (ii) of the Act.
+
+(x) Introduction of Foreign Assets of Small Taxpayers – Disclosure Scheme (FAST – DS), 2026
+
+- It is proposed to introduce a time-bound scheme for declaration of foreign assets and foreign sourced income for taxpayers involving amounts below certain threshold.
+
+2.  RATIONALISING PENALTY AND PROSECUTION
+
+(i) Reduction in multiplicity of proceedings
+
+- Presently, penalty proceedings are initiated after completion of the assessment proceedings. This takes a long time for finalising issues emerging out of any assessment. Multiplicity of proceedings increases number of pending appeals, cost of litigation and compliance. With a view to provide fast-track settlement of disputes, it is proposed to integrate assessment & penalty proceedings by way of a common order after providing reasonable opportunity to the taxpayer to explain the issue.
+
+- To provide relief to taxpayers on account of increase in quantum of demand which may arise as a result, it is proposed that the interest on penalty would be kept in abeyance during the pendency of appeal before first appellate authority.
+
+(ii) Immunity from penalty from underreporting in consequence of misreporting of income and prosecution in such cases
+
+- There are broadly two kind of penalties –
+
+(i) underreporting of income due to mistakes or oversight where penalty is 50% on tax amount and framework to underreporting of income in consequence of misreporting of income
+
+(ii) underreporting in consequence of misreporting of income on account of giving wrong or faulty information or misrepresenting the type of income where the penalty is 200% on tax amount.
+
+  There is already a framework for immunity from penalty and prosecution, under section 478 and 479 of the Act, if the penalty is initiated for underreporting of income. In this regard, it is proposed to extend the same on payment of 100% of tax amount as additional income-tax. However, the misreporting of income in respect of unexplained cash credit, etc. is proposed to be settled with a payment of 120% of the tax. In such cases immunity shall not be granted where prosecution is initiated as per provision of chapter-XXII of the Act.
+
+(iii) Conversion of penalty to fee
+
+- It is proposed to convert
+
+  (i) penalty for failure to get accounts audited,
+
+  (ii) penalty for non-furnishing of TP report and
+
+  (iii) penalty for default in furnishing statement for financial transactions or reportable accounts into fee to be charged per day of the default subject to a maximum ceiling.
+
+(iv) Rationalization of the prosecution framework
+
+- It is proposed that production of books of account and documents, and requirement of ensuring payment of TDS from the deductee where payment is made in kind, be completely decriminalised.
+
+- It is further proposed that all prosecutions shall be rationalised to simple imprisonment instead of rigorous imprisonment.
+
+- Maximum punishment for any offence (except for repeated offence) is proposed to be reduced to 2 years instead of 7 years.
+
+- In cases where presently the maximum punishment is two years, the punishment has been reduced to 6 months with or without fine and with no minimum imprisonment.
+
+- It is further proposed that prosecution for the offences under Income-tax Act, 2025 shall be based on the amount of tax evaded and the punishment shall be proportionate to the gravity of crime. In such cases, the requirement of maximum punishment of imprisonment has been done away with apart from relaxing the requirement of mandatory fine to optional.
+
+- It is further proposed, for minor offence, only fine shall be provided as a punishment.
+
+(v) Rationalising the tax rate for special income charged under section 195 of the Act
+
+- Presently there is special tax rate on certain incomes like income in the nature of cash credits, unexplained investments, etc. The tax rate is 60% and penalty is 10% of tax. It is proposed to rationalise the tax rate to 30% on these incomes. Penalty on such amount would be merged with penalty for underreporting of income in consequence of misreporting of income that is 200% of tax amount.
+
+(vi) Relaxation of search assessment in case of person other than the searched person in certain situation
+
+- Provisions for assessment in search cases was introduced by Finance (No. 2) Act, 2024. In the new scheme, where incriminating material pertaining to other person, relates only to a single tax year, the other person is also required to undergo the full block assessment procedure, resulting in an increased compliance burden on such person against whom no search or requisition was initiated.
+
+- It is proposed to limit the period of block in case of other person, where the undisclosed income of the other person pertains only to one tax year. The definition of block period is accordingly proposed to be amended in such cases.
+
+(vii) Time limit to complete search assessment
+
+- It is also proposed to amend section 296 of the Income-tax Act, 2025 so as to take the date of initiation of search as the reference point to decide the date of limitation for block assessment and consequently, the period of twelve months is proposed to be extended to eighteen months in the case of specified person.
+
+(viii) Extending the scope of filing of updated return
+
+- There is facility for updating tax returns where the taxpayer wants to show any additional income. This facility is available for a period of 4 years for an additional tax liability of 25%, 50%, 60%, 70% from the first to the fourth year after the relevant tax year when the return of income required to be filed for the first time. To provide additional measure for reducing litigation, it is proposed to allow the taxpayer to update the return even after reassessment proceedings have been initiated. The updation is proposed to be enabled at an additional 10% tax rate over and above the rate applicable for relevant year.
+
+- It is further proposed to allow filing of updated return in cases where tax payer reduces the amount of loss filed in original return under section 263(1).
+
+- It is further proposed that where the taxpayer files updated return and reports additional income then penalty shall not be leviable on such additional income.
+
+(ix) Immunity from prosecution under the Black Money Act
+
+- Under the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015, there is no penalty for non-disclosure of non-immovable assets with aggregate value less than twenty lakh rupees. It is proposed to extend this immunity for prosecution in such cases with retrospective effect from 1.10.2024.
+
+(x) Penalty provision for non-furnishing of statement or furnishing inaccurate information in a statement on transaction of crypto-assets
+
+- To ensure compliance to the provisions of section 509 of the Income-tax Act, 2025 and create a deterrence for non-furnishing of statement or for furnishing inaccurate information in respect of crypto assets in such statement, it is proposed to introduce penalty provision. Penalty of Rs. 200 per day for non-furnishing of statement and Rs. 50,000 for furnishing inaccurate particulars and failure to correct such inaccuracy is proposed to be levied.
+
+3.  COOPERATIVES
+
+(i) Deduction of profit and gains to a primary co-operative where they supply cattle feed and cotton seed to a federal co-operative.
+
+- Deduction of profit and gains is presently allowed to a primary cooperative society engaged in supplying milk, oilseeds, fruits or vegetables raised or grown by its members to a federal cooperative society and others engaged in the same activities. It is proposed to extend this deduction to a primary co-operative engaged in supplying of cattle feed and cotton seed to, inter alia, a federal co-operative or government organizations.
+
+(ii) Deduction of inter-cooperative society dividend income under the new tax regime.
+
+- The dividend received by a cooperative society from another cooperative society is allowed as a deduction in the old tax regime. Non-allowance of this deduction in the new tax regime may result in double taxation as it may be taxed in the hands of the members on further distribution by the cooperative societies. Therefore, it is proposed to allow the inter-cooperative society dividend income as deduction under the new tax regime to the extent it is further distributed to the members.
+
+(iii) Deduction of dividend income received by a notified national co-operative federation in the new tax regime.
+
+- It is proposed to allow exemption to dividend income received by a notified national federal cooperative from a company for a period of three years. This deduction is limited to the dividend received on investments made till 31.1.2026.
+
+- Further, this exemption would be allowed only to the extent that the dividends are further distributed to the members of the co-operatives.
+
+4.  ATTRACTING GLOBAL BUSINESS AND INVESTMENT
+
+(i) Tax holiday up to 2047 to any foreign company who provides services by procuring data centre services in India
+
+- Recognising the need to enable critical infrastructure and boost investment in data centres, it is proposed to provide a tax holiday up to 2047 to any foreign company who provides services to any part of the world outside India by procuring data centre services in India. Sale of such services to Indian users shall be made through an Indian reseller entity and taxed appropriately.
+
+- It is also proposed to provide a safe harbour of 15% to the resident entity providing data centre services to a related foreign company (who is providing cloud services to any part of the world outside India).
+
+(ii) Fillip to toll manufacturing engaged in manufacturing of electronic goods
+
+- To provide fillip to toll manufacturing in India, it is proposed to provide exemption to any foreign company who provides capital goods, equipment and tooling to any toll manufacturer in a bonded zone who is engaged in manufacturing of electronic goods. The exemption is proposed for a period of five tax years beginning on 1^(st) April, 2026.
+
+(iii) Exemption to the global income (other than Indian sourced income) to an expert who visits India and stays for a longer period
+
+- To enable vast pool of global talent to come and work in India for a longer period of time, there is a need to provide tax certainty to them that only their Indian sourced income will be taxed in India despite their long period of stay.
+
+- Accordingly, it is proposed to provide exemption to the global income (other than Indian sourced income) to an expert who visits India and stays for a period of five years. The expert visiting India should have been a non-resident in the previous five years when he visits India and should be providing services under notified Government scheme.
+
+(iv) Exemption from MAT to non-residents availing presumptive taxation scheme
+
+- Non-residents who avail presumptive scheme of taxation are exempt from applicability of Minimum Alternate Tax (MAT) provisions. It is proposed to extend such exemption from MAT to all non-residents who pay tax on a presumptive basis.
+
+(v) Incentivizing prospecting and exploration of critical minerals
+
+- In order to incentivise the prospecting and exploration of the critical minerals, it is proposed to include certain critical minerals in the list of minerals in Schedule XII of the Act, thereby making expenditure on prospecting and exploring of such critical minerals eligible for deduction as per the provision of section 51 of the Act.
+
+(vi) Extension of period of deduction for units in IFSC and rationalization of tax rate
+
+- To increase the competitiveness of IFSC, it is proposed to increase the period of deduction under section 147 to 20 consecutive years out of 25 years for units in IFSC and 20 consecutive years for OBUs. It is also proposed that the business income of these units from IFSC after the expiry of period of deduction will be taxed at rate of 15%.
+
+(vii) Rationalization of certain terms for treasury centres in IFSC
+
+- It is proposed to rationalize the provisions of deemed dividend applicable to treasury centre in IFSC by providing that provisions of deemed dividend shall not be applicable if
+
+  (i) the parent entity or the principal of the group shall be listed in a country or territory outside India; and
+
+  (ii) such parent or principal entity and other group entity to the transaction is located in a country or territory outside India as may specified by the Central Government, by notification in the Official Gazette.
+
+5.  RATIONALISATION OF CORPORATE TAX REGIME
+
+(i) Reduction of rate of Minimum Alternate Tax (MAT) and allowance of set-off of brought forward MAT credit to companies shifting to the new tax regime
+
+- To enable companies to shift to the new regime, MAT is proposed to be made as a final tax and the corresponding rate is reduced from 15% to 14%. There shall be no allowance of credit in future tax years in respect of such payment.
+
+- Further, the set-off of any brought forward MAT credit available from prior to tax year 2026-27 will only be allowed to domestic companies which shift henceforth to the new regime.
+
+- This set-off of MAT credit brought forward as on 1/4/2026 is proposed to be allowed in the new tax regime to domestic companies to the extent of 25% of their tax liability.
+
+- The brought forward MAT credit shall be available only up to fifteenth year from the year when the corresponding credit was first available.
+
+- In the case of foreign companies, set off is proposed to be allowed to the extent of the difference between the tax on the total income and the minimum alternate tax, for the tax year in which normal tax is more than MAT.
+
+6.  RATIONALISATION OF OTHER DIRECT TAX PROVISIONS
+
+(i) Rationalisation of share buyback
+
+- It is proposed to provide that consideration received by a shareholder on buy-back shall be chargeable to tax under the head “Capital Gains” instead of being treated as dividend income. It is also proposed to provide for a differential rate for promoters wherein the effective rate on gains in buyback will be 22% for promoters which are domestic companies and 30% for promoters other than domestic companies.
+
+(ii) Rationalisation of tax collection at source (TCS) rates
+
+- It is proposed to reduce multiplicity of TCS rates. Also, certain TCS rates are rationalised to address the cash flow issues on this account.
+
++-------+-------------------------+-----------------+-----------------+
+| Sl.   | Nature of receipt       | Current Rate    | Proposed Rate   |
+| No.   |                         |                 |                 |
++:======+:========================+:================+:================+
+| 1     | Sale of alcoholic       | 1%.             | 2%.             |
+|       | liquor for human        |                 |                 |
+|       | consumption.            |                 |                 |
++-------+-------------------------+-----------------+-----------------+
+| 2     | Sale of tendu leaves.   | 5%.             | 2%.             |
++-------+-------------------------+-----------------+-----------------+
+| 3     | Sale of scrap.          | 1%.             | 2%.             |
++-------+-------------------------+-----------------+-----------------+
+| 4     | Sale of minerals, being | 1%.             | 2%.             |
+|       | coal or lignite or iron |                 |                 |
+|       | ore.                    |                 |                 |
++-------+-------------------------+-----------------+-----------------+
+| 5     | Remittance under the    | (a) 5% for      | (a) 2% for      |
+|       | Liberalised Remittance  | purposes of     | purposes of     |
+|       | Scheme of an amount or  | education or    | education or    |
+|       | aggregate of the        | medical         | medical         |
+|       | amounts exceeding ten   | treatment;      | treatment;      |
+|       | lakh rupees—            |                 |                 |
+|       |                         | (b) 20% for     | (b) 20% for     |
+|       |                         | purposes other  | purposes other  |
+|       |                         | than education  | than education  |
+|       |                         | or medical      | or medical      |
+|       |                         | treatment.      | treatment.      |
++-------+-------------------------+-----------------+-----------------+
+| 6     | Sale of “overseas tour  | (a) 5% of       | 2%              |
+|       | programme package”      | amount or       |                 |
+|       | including expenses for  | aggregate of    |                 |
+|       | travel or hotel stay or | amounts up to   |                 |
+|       | boarding or lodging or  | ten lakh        |                 |
+|       | any such similar or     | rupees;         |                 |
+|       | related expenditure.    |                 |                 |
+|       |                         | (b) 20% of      |                 |
+|       |                         | amount or       |                 |
+|       |                         | aggregate of    |                 |
+|       |                         | amounts         |                 |
+|       |                         | exceeding ten   |                 |
+|       |                         | lakh rupees.    |                 |
++-------+-------------------------+-----------------+-----------------+
+
+(iii) STT rate increase
+
+- To provide reasonable course correction in F&O segment in the capital market and generate additional revenues for the Government, it is proposed to raise the STT on Futures to 0.05% from present 0.02%.
+
+- STT on options premium and exercise of options is proposed to be raised to 0.15% from the present rate of 0.1% and 0.125% respectively.
+
+(iv) Capital Gains Exemption for Sovereign Gold Bonds
+
+- It is proposed to provide that the exemption from capital gains tax in respect of Sovereign Gold Bonds shall be available only where such bonds are subscribed to by an individual at the time of original issue and are held continuously until redemption on maturity,
+
+- It is also proposed to provide that this exemption applies uniformly to all issuances of Sovereign Gold Bonds by the Reserve Bank of India.
+
+(v) Rationalisation of Schedule XI relating to Recognised Provident Funds
+
+- It is proposed to amend Schedule XI to rationalise the provisions relating to recognised provident funds by deleting parity-based and percentage-based limits on employer contributions, removing salary-linked relaxations and shareholder-based distinctions, aligning eligibility for recognition with exemption under section 17 of the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952, and modifying investment-related provisions to remove rigid statutory caps inconsistent with prevailing EPFO norms.
+
+(vi) Removal of Interest Deduction against Dividend and Mutual Fund Income
+
+- It is proposed to provide that no deduction shall be allowed in respect of any interest expenditure incurred in relation to dividend income or income from units of mutual funds, and to omit the existing provision permitting such deduction subject to a specified ceiling.
+
+(vii) Enabling provision to provide clarity on situations where an amount which has been claimed as deduction or which has not been added in the total income will be deemed income
+
+- It is proposed that where any sum has been allowed as deduction or has not been included in the total income under the repealed Income-tax Act, 1961, such sum will be deemed to be income under Income-tax Act, 2025, even without violations of any conditions, if it was to be included in the total income under the provisions of Income-tax Act, 1961 had it not been repealed.
+
+(viii) Rationalising the provisions related to tonnage tax scheme
+
+- It is proposed to rationalise the tonnage tax scheme provisions to align it with the Inland Vessels Act, 2021 and rules made thereunder.
+
+(ix) Disability Pension for Armed Forces
+
+- It is proposed to provide a specific exemption for disability pension granted to members of the Armed Forces including paramilitary personnel, covering both the service element and the disability element, where the individual has been invalided out of service on account of a bodily disability attributable to, or aggravated by, military, naval or air force service, and to exclude cases of retirement on superannuation or otherwise.
+
+(x) Exemption on income in respect of compulsory acquisition of any land under RFCTLARR Act
+
+- In order to specifically provide exemption for acquisition of land under the provisions of Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, it is proposed to provide exemption to an individual or a Hindu undivided family on any income in respect of any award or agreement made on account of compulsory acquisition of any land under the said Act (other than the award or agreement made under section 46 of said Act).
+
+(xi) Facility to the associated entity of the person entering into Advance Pricing Agreement (APA) to file modified return
+
+- In Advance Pricing Agreement (APA), there is already a facility for the entity entering APA to file modified returns according to the agreement. It is proposed to extend the same facility to the associated entity of the person entering into agreement where it’s income also changes on account of the agreement.
+
+(xii) Amendments in the nature of clarifications
+
+There are certain legal issues in which there are differing judgement of courts. These relate to time-limit for assessment after Dispute Resolution Panel proceedings, time-limit for Transfer Pricing Officer order, Document Identification Number and issuance of notice for re-assessment by the Jurisdictional Assessing Officer. In this regard, it is proposed to clarify these issues in the Income-tax Act, 1961 and Income-tax Act, 2025 to provide certainty to the provisions.
+
+(xiii) Other minor modification in the Income-tax Act, 2025
+
+- It is proposed to provide definition of “commodity derivative” in section 66 of the Act.
+
+- It is proposed to provide definition of “authorised person” in section 402 of the Act.
+
+- It is proposed to correct referencing error in Note 3 of section 393(1) [Table: Sl. No. 3(i)] from [Table: Sl. No. 3(iii)] to [Table: Sl. No. 3(i)].
+
+- It is proposed to correct referencing error in section 99(2) from 99(1)(a)(i) to section 99(1)(a)(ii).
+
+- It is proposed to amend section 400(2) of the Income-tax Act, 2025 to align it with the intent of the provisions of Income-tax Act, 1961 and to provide that the guidelines issued by the Board under this section shall apply to income-tax authorities as well as the person liable to deduct or collect, as the case may be, income-tax.
+
+- It is proposed to amend sections 58, 162, 164, 165, 202 and 270 of the Income-tax Act, 2025 to remove duplicate reference to both the section 144 and Chapter VIII, as chapter VIII already includes section 144.
+
+- It is proposed to amend schedule VI [Note 1(g)] to align the definition of the specified fund as provided in Schedule VI [Note 1(g)] of the Income-tax Act, 2025 with the provisions of section 10(4D) of the Income-tax Act, 1961.
+
+- It is proposed to amend section 352(4) [Table: Sl. No. 8] to align the provisions relating to accreted income in the case of merger of registered NPOs with any other entity other than a registered non-profit organisation (NPO) or with any other registered NPO having the same or similar objects but the said merger does not fulfil such conditions as may be prescribed or with a registered NPO that does not have same or similar objects.
+
+- It is proposed to insert a new section on the lines of section 12AC of the Income-tax Act, 1961 to allow the merger of the registered NPO with any other registered NPO having the same or similar objects if the said merger fulfils such conditions, as may be prescribed.
+
+- It is proposed to amend section 351 of the Income-tax Act, 2025 to remove the reference of section 346 of the Income-tax Act, 2025 in said section to align the provision with the Income-tax Act, 1961
+
+- It is proposed to amend section 332(1)(f) of the Income-tax Act, 2025 to remove the reference of Schedule VII [Table: Sl. No. 10 to 16] in said section so that such funds may not be required to register themselves as the registered NPO.
+
+- It is proposed to amend section 349 to enable the filing of belated return by the registered NPO.
+
+- It is proposed to change the annual value of property or part thereof to be treated as nil from “for two years” to “upto two years”.
+
+- It is proposed to amend section 22(2) of the Income-tax Act, 2025 so as to provide that aggregate amount of deduction for interest on borrowed capital shall be inclusive of prior-period interest payable.
+
+- It is proposed to amend section 262(10)(c) to enable Central Board of Direct Taxes (CBDT) to make rules for quoting of Permanent Account Number in such documents which does not relate to business or profession.
