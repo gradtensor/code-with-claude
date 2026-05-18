@@ -1,0 +1,313 @@
+Run 1/3...
+Run 2/3...
+Run 3/3...
+╭─────────────────────────────────── Run 1 ────────────────────────────────────╮
+│ ## R&D-Related Allocations in Budget 2026-27                                 │
+│                                                                              │
+│ Based on the budget speech, here are all the R&D-related mentions across     │
+│ sectors. Note that **explicit standalone R&D budget figures are limited**;   │
+│ most are embedded within broader scheme outlays.                             │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 1. Biopharma SHAKTI                                                      │
+│ - **Outlay: ₹10,000 crore over 5 years**                                     │
+│ - Covers building the ecosystem for domestic production of biologics and     │
+│ biosimilars, including 3 new NIPERs and upgrading 7 existing ones — which    │
+│ inherently include research and education infrastructure.                    │
+│ - Also creates a network of over 1,000 accredited India Clinical Trials      │
+│ sites, which is research-infrastructure spending.                            │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 2. India Semiconductor Mission (ISM) 2.0                                 │
+│ - **No specific outlay stated** in the speech.                               │
+│ - Explicitly mentions "industry-led research and training centres to develop │
+│ technology and skilled workforce."                                           │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 3. Carbon Capture Utilization and Storage (CCUS)                         │
+│ - **Outlay: ₹20,000 crore over 5 years**                                     │
+│ - Described as achieving "higher readiness levels" in technology across      │
+│ power, steel, cement, refineries and chemicals — this is fundamentally an    │
+│ R&D and technology development programme.                                    │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 4. Rare Earth Permanent Magnets / Rare Earth Corridors                   │
+│ - **No specific outlay stated.**                                             │
+│ - Proposes dedicated Rare Earth Corridors in Odisha, Kerala, Andhra Pradesh  │
+│ and Tamil Nadu to promote "mining, processing, **research** and              │
+│ manufacturing."                                                              │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 5. Sports — Khelo India Mission                                          │
+│ - **No specific outlay stated.**                                             │
+│ - Explicitly includes "integration of sports science and technology" as one  │
+│ of the Mission's pillars.                                                    │
+│ - The proposed sports goods initiative also mentions "research and           │
+│ innovation in equipment design as well as material sciences."                │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 6. AYUSH                                                                 │
+│ - **No specific outlay stated.**                                             │
+│ - Proposes to upgrade the **WHO Global Traditional Medicine Centre in        │
+│ Jamnagar** to "bolster **evidence-based research**, training and awareness   │
+│ for traditional medicine."                                                   │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 7. Telescope and Astronomy Infrastructure                                │
+│ - **No specific outlay stated.**                                             │
+│ - Proposes setting up or upgrading 4 facilities: National Large Solar        │
+│ Telescope, National Large Optical-infrared Telescope, Himalayan Chandra      │
+│ Telescope, and COSMOS-2 Planetarium — all fundamentally research             │
+│ infrastructure.                                                              │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 8. Existing Technology Missions (Referenced, Not New Allocations)        │
+│ - The speech references previously established platforms — **AI Mission,     │
+│ National Quantum Mission, Anusandhan National Research Fund, and Research,   │
+│ Development and Innovation Fund** — as part of the government's technology   │
+│ support ecosystem, but **no new allocations for these are announced** in     │
+│ this budget speech.                                                          │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 9. Medical Value Tourism Hubs                                            │
+│ - **No specific outlay stated per hub.**                                     │
+│ - The 5 Regional Medical Hubs will combine "medical, **educational and       │
+│ research** facilities."                                                      │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### Summary Table                                                            │
+│                                                                              │
+│ | Sector | Scheme | R&D Component | Outlay |                                 │
+│ |---|---|---|---|                                                            │
+│ | Biopharma | Biopharma SHAKTI | Clinical trials, NIPERs | ₹10,000 cr / 5    │
+│ yrs |                                                                        │
+│ | Climate/Industry | CCUS | Technology development | ₹20,000 cr / 5 yrs |    │
+│ | Semiconductors | ISM 2.0 | Industry-led research centres | Not specified | │
+│ | Critical Minerals | Rare Earth Corridors | Research included | Not         │
+│ specified |                                                                  │
+│ | AYUSH | WHO Centre, Jamnagar | Evidence-based research | Not specified |   │
+│ | Astronomy | Telescope infrastructure | Pure research infrastructure | Not  │
+│ specified |                                                                  │
+│ | Sports | Khelo India Mission | Sports science & technology | Not specified │
+│ |                                                                            │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ **The two schemes with explicit R&D-linked financial outlays are Biopharma   │
+│ SHAKTI (₹10,000 crore) and CCUS (₹20,000 crore).** For most other R&D        │
+│ components, the speech describes the activity but does not break out a       │
+│ dedicated research allocation separately from the broader programme cost.    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────── Run 2 ────────────────────────────────────╮
+│ ## R&D-Related Allocations in Budget 2026-27                                 │
+│                                                                              │
+│ Based on the budget speech, here are all the explicit and implicit           │
+│ R&D-related provisions across sectors:                                       │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 1. Biopharma SHAKTI                                                      │
+│ - **Outlay: ₹10,000 crore over 5 years**                                     │
+│ - Includes a network of **3 new NIPERs** and upgrading of **7 existing       │
+│ ones**                                                                       │
+│ - Creates **over 1,000 accredited India Clinical Trials sites**              │
+│ - Strengthening CDSCO with a **dedicated scientific review cadre and         │
+│ specialists**                                                                │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 2. India Semiconductor Mission (ISM) 2.0                                 │
+│ - No specific rupee outlay stated in the speech                              │
+│ - Focus on **industry-led research and training centres** to develop         │
+│ technology and skilled workforce                                             │
+│ - Designing **full-stack Indian IP**                                         │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 3. Carbon Capture Utilisation and Storage (CCUS)                         │
+│ - **Outlay: ₹20,000 crore over 5 years**                                     │
+│ - Covers R&D across **5 industrial sectors**: power, steel, cement,          │
+│ refineries and chemicals                                                     │
+│ - Aims to achieve higher technology readiness levels                         │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 4. Animal Husbandry / Veterinary                                         │
+│ - No specific rupee outlay stated                                            │
+│ - Loan-linked capital subsidy for **veterinary colleges and diagnostic       │
+│ laboratories**                                                               │
+│ - Facilitation of **collaboration between Indian and foreign institutions**  │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 5. AYUSH                                                                 │
+│ - No specific rupee outlay stated for R&D                                    │
+│ - Upgrade of **WHO Global Traditional Medicine Centre in Jamnagar** to       │
+│ bolster **evidence-based research, training and awareness**                  │
+│ - Upgrade of AYUSH pharmacies and Drug Testing Labs for higher certification │
+│ standards                                                                    │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 6. Sports – Khelo India Mission                                          │
+│ - No specific rupee outlay stated                                            │
+│ - Includes **integration of sports science and technology** as one of the    │
+│ Mission's five pillars                                                       │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 7. Sports Goods                                                          │
+│ - No specific rupee outlay stated                                            │
+│ - Dedicated initiative to promote **research and innovation in equipment     │
+│ design and material sciences**                                               │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 8. Astronomy and Astrophysics                                            │
+│ - No specific rupee outlay stated                                            │
+│ - **4 telescope infrastructure facilities** to be set up or upgraded:        │
+│   - National Large Solar Telescope                                           │
+│   - National Large Optical-infrared Telescope                                │
+│   - Himalayan Chandra Telescope                                              │
+│   - COSMOS-2 Planetarium                                                     │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 9. Divyang Sahara Yojana (Assistive Technology)                          │
+│ - No specific rupee outlay stated                                            │
+│ - Support to **ALIMCO** to **invest in R&D and AI integration** for          │
+│ assistive devices                                                            │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 10. Regional Medical Hubs                                                │
+│ - No specific rupee outlay for R&D specifically                              │
+│ - Hubs to combine **medical, educational and research facilities**           │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### Tax Incentives Supporting R&D/Innovation                                 │
+│                                                                              │
+│ - **Tax holiday till 2047** for foreign companies providing cloud services   │
+│ using Indian data centres                                                    │
+│ - **5-year income tax exemption** for non-residents providing capital        │
+│ goods/equipment/tooling to toll manufacturers in bonded zones (aimed at      │
+│ electronics manufacturing R&D)                                               │
+│ - **Safe harbour for IT services** threshold raised from ₹300 crore to       │
+│ **₹2,000 crore**, covering contract R&D services relating to software        │
+│ development                                                                  │
+│ - **Customs duty exemption** on capital goods for **critical minerals        │
+│ processing**                                                                 │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### Important Caveat                                                         │
+│ The speech references the **Anusandhan National Research Fund** and          │
+│ **Research, Development and Innovation Fund** (paragraph 48) as existing     │
+│ frameworks supporting new technologies, but provides **no new allocations**  │
+│ for these in this budget speech.                                             │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ **Summary:** The two largest explicitly funded R&D-adjacent allocations are  │
+│ CCUS (₹20,000 crore) and Biopharma SHAKTI (₹10,000 crore). Most other R&D    │
+│ provisions lack specific rupee allocations in the speech text.               │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────── Run 3 ────────────────────────────────────╮
+│ ## R&D-Related Allocations in Budget 2026-27                                 │
+│                                                                              │
+│ Based on the budget speech, here are all the explicit R&D-related mentions   │
+│ across sectors:                                                              │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 1. Biopharma SHAKTI                                                      │
+│ - **Outlay: ₹10,000 crore over 5 years**                                     │
+│ - Includes a network of **3 new NIPERs** and upgrading of **7 existing       │
+│ NIPERs**                                                                     │
+│ - Creation of **over 1,000 accredited India Clinical Trials sites**          │
+│ - Strengthening of the Central Drugs Standard Control Organisation with a    │
+│ dedicated scientific review cadre                                            │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 2. India Semiconductor Mission (ISM) 2.0                                 │
+│ - No specific rupee allocation stated in the speech                          │
+│ - Includes **industry-led research and training centres** to develop         │
+│ technology and skilled workforce                                             │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 3. Carbon Capture Utilization and Storage (CCUS)                         │
+│ - **Outlay: ₹20,000 crore over 5 years**                                     │
+│ - Achieving higher technology readiness levels across five industrial        │
+│ sectors: power, steel, cement, refineries and chemicals                      │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 4. AYUSH                                                                 │
+│ - Upgrade of **WHO Global Traditional Medicine Centre in Jamnagar** to       │
+│ bolster **evidence-based research**, training and awareness                  │
+│ - No specific rupee figure stated for this component                         │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 5. Animal Husbandry                                                      │
+│ - Facilitation of **collaboration between Indian and foreign institutions**  │
+│ for veterinary colleges and diagnostic laboratories                          │
+│ - No specific R&D rupee figure stated                                        │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 6. Rare Earth Permanent Magnets                                          │
+│ - Dedicated **Rare Earth Corridors** in Odisha, Kerala, Andhra Pradesh and   │
+│ Tamil Nadu covering **mining, processing, research and manufacturing**       │
+│ - No specific rupee allocation stated for R&D component                      │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 7. Assistive Devices / Divyangjan                                        │
+│ - Support to **ALIMCO** to invest in **R&D and AI integration** for          │
+│ assistive devices                                                            │
+│ - No specific rupee figure stated                                            │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 8. Sports (Khelo India Mission)                                          │
+│ - Includes **integration of sports science and technology**                  │
+│ - No separate R&D allocation stated                                          │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 9. Direct Tax Incentive for Critical Minerals Exploration                │
+│ - Expenditure on **prospecting and exploring critical minerals** made        │
+│ eligible for deduction under Section 51 of the Income Tax Act, 2025          │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### Summary Observation                                                      │
+│ The speech contains **only two hard rupee allocations explicitly tagged to   │
+│ R&D-type activity**:                                                         │
+│ | Scheme | Amount |                                                          │
+│ |---|---|                                                                    │
+│ | Biopharma SHAKTI | ₹10,000 crore / 5 years |                               │
+│ | CCUS | ₹20,000 crore / 5 years |                                           │
+│                                                                              │
+│ For all other sectors, R&D is mentioned as a **component** of broader        │
+│ schemes but without a dedicated, separately quantified budget line.          │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Run 1: in=27505 out=981 cost=$0.0972 22101ms
+Run 2: in=27505 out=928 cost=$0.0964 23015ms
+Run 3: in=27505 out=675 cost=$0.0926 61421ms
+Total: in=82515 out=2584 cost=$0.2863 106536ms

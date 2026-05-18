@@ -1,0 +1,142 @@
+2026-05-18 11:22:25,906 INFO budget-mcp loaded 20 sections from /Users/prabhueshwarla/claude/agents-post/fixtures/budget-2026/sections/index.json
+2026-05-18 11:22:25,916 INFO budget-mcp starting budget-2026 MCP server on stdio
+2026-05-18 11:22:25,924 INFO mcp.server.lowlevel.server Processing request of type ListToolsRequest
+discovered 2 tools: list_budget_sections, read_budget_section
+
+Run 1/1...
+tool list_budget_sections({})
+2026-05-18 11:22:27,973 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> {   "id": "intro.budget_overview",   "title": "Budget overview and the 
+three kartavyas",   "summary": "Speech opener, macro framing, and the 
+three-kartavya structure (growth, aspirations, inclusion) ...
+tool read_budget_section({'section_id': 
+'manufacturing.textile_integrated_programme'})
+2026-05-18 11:22:34,352 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> 22. For the labour-intensive Textile Sector, I propose an Integrated 
+Programme with 5 sub-parts:  (a) The National Fibre Scheme for self-reliance    
+in natural fibres such as silk, wool and jute,   ...
+tool read_budget_section({'section_id': 
+'taxes.indirect_overview_exemptions_exports'})
+2026-05-18 11:22:34,359 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Indirect Taxes  144. I shall now take up proposals related to Indirect 
+Taxes. My proposals for Customs and Central Excise      aim to further simplify 
+the tariff structure, support domestic manufactu...
+tool read_budget_section({'section_id': 
+'taxes.indirect_sez_ease_customs_exports'})
+2026-05-18 11:22:34,365 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Ease of Living  159. To rationalize the customs duty structure for goods 
+imported for personal use, I propose to reduce the tariff rate on all dutiable 
+goods imported for personal use from 20 per cen...
+tool read_budget_section({'section_id': 'annexure.indirect_tax_amendments'})
+2026-05-18 11:22:34,372 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Annexure to Part B Amendments relating to Indirect Taxes  
++-----------------------------------------------------------------------+ | A. 
+LEGISLATIVE CHANGES IN CUSTOMS LAWS                           ...
+╭─────────────────────────────────── Answer ───────────────────────────────────╮
+│ Here is a comprehensive analysis of how the **Union Budget 2026-27** impacts │
+│ the **textile industry**, drawn directly from the Budget speech:             │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 🧵 Union Budget 2026-27: Impact on the Textile Industry                   │
+│                                                                              │
+│ ### 1. 🏭 Integrated Programme for the Textile Sector (Para 22)              │
+│ The Budget announces a comprehensive **Integrated Programme** specifically   │
+│ for the **labour-intensive Textile Sector**, comprising **five sub-parts**:  │
+│                                                                              │
+│ | Sub-scheme | Purpose |                                                     │
+│ |---|---|                                                                    │
+│ | **(a) National Fibre Scheme** | Self-reliance in natural fibres (silk,     │
+│ wool, jute), man-made fibres, and new-age fibres |                           │
+│ | **(b) Textile Expansion and Employment Scheme** | Modernise traditional    │
+│ clusters with capital support for machinery, technology upgradation, and     │
+│ common testing & certification centres |                                     │
+│ | **(c) National Handloom and Handicraft Programme** | Integrate existing    │
+│ schemes; targeted support for weavers and artisans |                         │
+│ | **(d) Tex-Eco Initiative** | Promote globally competitive and              │
+│ **sustainable** textiles and apparel |                                       │
+│ | **(e) Samarth 2.0** | Modernise and upgrade the textile **skilling         │
+│ ecosystem** through collaboration with industry and academia |               │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 2. 🏗️ Mega Textile Parks (Para 23)                                       │
+│ The Budget proposes to set up **Mega Textile Parks** in **challenge mode**,  │
+│ with a focus on bringing **value addition to technical textiles** — a        │
+│ high-growth segment globally.                                                │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 3. 🪡 Mahatma Gandhi Gram Swaraj Initiative (Para 24)                    │
+│ A dedicated initiative to **strengthen khadi, handloom and handicrafts**,    │
+│ with objectives including:                                                   │
+│ - Global market linkage and branding                                         │
+│ - Streamlined support for training, skilling, and quality of                 │
+│ process/production                                                           │
+│ - Benefits for **weavers, village industries, the One District–One Product   │
+│ initiative**, and rural youth                                                │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 4. 📦 Export Promotion Measures for Textile Exporters                    │
+│                                                                              │
+│ #### Extended Export Timeline (Para 149 / Annexure D.2)                      │
+│ - The time period for the **export of final products** using duty-free       │
+│ imported inputs is being **extended from 6 months to 12 months** for         │
+│ exporters of **leather or textile garments**, leather/synthetic footwear,    │
+│ and other leather products. This gives textile exporters significantly more  │
+│ breathing room in their production and export cycles.                        │
+│                                                                              │
+│ #### Duty-Free Inputs Eligibility Extended (Para 148 / Annexure D.3)         │
+│ - The benefit of **duty-free imports of specified inputs**, previously       │
+│ available for leather/synthetic footwear exports, is now extended to **Shoe  │
+│ Uppers** as well — benefiting businesses at the intersection of textile and  │
+│ footwear.                                                                    │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 5. 🧶 Fibre & Sustainability Focus                                       │
+│ The **Tex-Eco Initiative** signals a clear policy push toward **eco-friendly │
+│ and sustainable textiles**, aligning India's textile sector with global      │
+│ green standards — crucial for export competitiveness, especially in European │
+│ and North American markets.                                                  │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ### 6. 🔧 Indirect Tax / Customs — Broader Enablers                          │
+│ While no specific customs duty cuts were announced for textile raw materials │
+│ in this Budget, the **overall trade facilitation measures** benefit textile  │
+│ exporters:                                                                   │
+│ - **Removal of ₹10 lakh cap on courier exports** (Para 175) helps textile    │
+│ artisans and small businesses access global e-commerce markets.              │
+│ - **Advance Ruling validity extended from 3 to 5 years** (Para 165) provides │
+│ certainty for textile import/export planning.                                │
+│ - **AEO duty deferral extended from 15 to 30 days** (Para 163) improves      │
+│ liquidity for large textile importers.                                       │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 📝 Summary                                                                │
+│                                                                              │
+│ | Area | Budget Measure |                                                    │
+│ |---|---|                                                                    │
+│ | Manufacturing | Integrated Programme (5 sub-parts), Mega Textile Parks |   │
+│ | Fibre Self-Reliance | National Fibre Scheme |                              │
+│ | Employment & Skilling | Samarth 2.0, Textile Expansion and Employment      │
+│ Scheme |                                                                     │
+│ | Handloom & Handicraft | National Handloom Programme + Mahatma Gandhi Gram  │
+│ Swaraj |                                                                     │
+│ | Sustainability | Tex-Eco Initiative |                                      │
+│ | Export Facilitation | Export timeline doubled (6 → 12 months); e-commerce  │
+│ courier cap removed |                                                        │
+│ | Trade Logistics | AEO deferral, advance ruling extension, digital customs  │
+│ window |                                                                     │
+│                                                                              │
+│ Overall, the Budget takes a **multi-dimensional approach** to textiles —     │
+│ supporting raw material self-reliance, modernising clusters, upskilling      │
+│ workers, promoting sustainability, and easing exports. The emphasis on       │
+│ **technical textiles** and **Tex-Eco** also positions the sector for         │
+│ long-term global competitiveness.                                            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+model=claude-sonnet-4-6 in=16469 out=1418 cost~$0.0707 35965ms

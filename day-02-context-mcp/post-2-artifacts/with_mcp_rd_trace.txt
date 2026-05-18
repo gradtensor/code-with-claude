@@ -1,0 +1,256 @@
+2026-05-18 11:28:25,716 INFO budget-mcp loaded 20 sections from /Users/prabhueshwarla/claude/agents-post/fixtures/budget-2026/sections/index.json
+2026-05-18 11:28:25,728 INFO budget-mcp starting budget-2026 MCP server on stdio
+2026-05-18 11:28:25,737 INFO mcp.server.lowlevel.server Processing request of type ListToolsRequest
+discovered 2 tools: list_budget_sections, read_budget_section
+
+Run 1/1...
+tool list_budget_sections({})
+2026-05-18 11:28:27,989 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> {   "id": "intro.budget_overview",   "title": "Budget overview and the 
+three kartavyas",   "summary": "Speech opener, macro framing, and the 
+three-kartavya structure (growth, aspirations, inclusion) ...
+tool read_budget_section({'section_id': 'manufacturing.strategic_sectors'})
+2026-05-18 11:28:34,009 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Scaling up manufacturing in 7 strategic and frontier sectors:  16. 
+Biopharma SHAKTI (Strategy for Healthcare Advancement through Knowledge, 
+Technology and Innovation) – India’s disease burden is obse...
+tool read_budget_section({'section_id': 
+'infrastructure.capex_freight_aviation_energy_cities'})
+2026-05-18 11:28:34,025 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Infrastructure  32. During this past decade our Government has undertaken 
+several initiatives for large-scale enhancement of public infrastructure 
+including through new financing instruments such as ...
+tool read_budget_section({'section_id': 'finance.banking_bonds_ease_and_ai'})
+2026-05-18 11:28:34,036 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Financial Sector  41. The Indian banking sector today is characterised by 
+strong balance sheets, historic highs in profitability, improved asset quality 
+and coverage exceeding 98% of villages in the ...
+tool read_budget_section({'section_id': 
+'welfare.education_to_employment_and_health'})
+2026-05-18 11:28:34,044 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> 49. Our second kartavya is to fulfil aspirations and build capacity. Close 
+to 25 crore individuals have come out of multidimensional poverty through a 
+decade of our Government’s sustained and reform-...
+tool read_budget_section({'section_id': 
+'welfare.livestock_avgc_design_and_telescopes'})
+2026-05-18 11:28:34,053 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> 59. Livestock contributes close to 16% of farm income, including of poor 
+and marginal households. To scale up availability of veterinary professionals by
+more than 20,000, I propose to roll out a loa...
+tool read_budget_section({'section_id': 
+'agriculture.farmer_welfare_and_high_value_crops'})
+2026-05-18 11:28:34,061 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> 74. Our third kartavya aligns with our vision of Sabka Sath, Sabka Vikas 
+towards a Viksit Bharat.  75. This requires targeted efforts for a) Increasing 
+farmer incomes through productivity enhancement...
+tool read_budget_section({'section_id': 
+'taxes.direct_cooperatives_global_business_admin'})
+2026-05-18 11:28:34,073 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Cooperatives  121. Deduction is already allowed to a primary cooperative 
+society engaged in supplying milk, oilseeds, fruits or vegetables raised or 
+grown by its members. I propose to extend this ded...
+tool read_budget_section({'section_id': 
+'taxes.indirect_energy_minerals_aviation_electronics'})
+2026-05-18 11:28:34,083 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Energy transition and security  150. I propose to extend the basic customs 
+duty exemption given to capital goods used for manufacturing Lithium-Ion Cells 
+for batteries, to those used for manufacturin...
+tool read_budget_section({'section_id': 'intro.budget_overview'})
+2026-05-18 11:28:40,495 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> Budget 2026-2027  Speech of  Nirmala Sitharaman  Minister of Finance  
+February 1, 2026  Hon’ble Speaker,  On the sacred occasion of Magha Purnima and 
+the birth anniversary of Guru Ravidas, I present ...
+tool read_budget_section({'section_id': 
+'taxes.direct_new_income_tax_act_and_ease'})
+2026-05-18 11:28:40,508 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> PART B  Direct Taxes  Speaker Sir,  98. Now I present my proposals on 
+Direct Taxes.  New Income Tax Act  99. In July 2024, I announced a comprehensive
+review of the Income Tax Act, 1961. This was com...
+tool read_budget_section({'section_id': 
+'welfare.women_divyangjan_mental_health_regional'})
+2026-05-18 11:28:40,515 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+  -> 84. Building on the success of the Lakhpati Didi Programme, I propose to 
+help women take the next step from     credit-led livelihoods to being owners of
+enterprises.     Self-Help Entrepreneur (SHE)...
+╭─────────────────────────────────── Answer ───────────────────────────────────╮
+│ Excellent! I now have a comprehensive picture of all R&D-related allocations │
+│ in the Budget. Here is a complete, sector-wise analysis:                     │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ # 🔬 R&D-Related Allocations in Union Budget 2026-27: A Comprehensive        │
+│ Overview                                                                     │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 1. 🧬 Biopharma / Pharmaceuticals                                         │
+│ **Scheme: Biopharma SHAKTI** *(Strategy for Healthcare Advancement through   │
+│ Knowledge, Technology and Innovation)*                                       │
+│ - **Outlay: ₹10,000 crore over 5 years**                                     │
+│ - Builds an ecosystem for domestic production of **biologics and             │
+│ biosimilars**                                                                │
+│ - Includes a network of **3 new NIPERs** (National Institutes of             │
+│ Pharmaceutical Education and Research) and upgrading of **7 existing ones**  │
+│ - Creates a network of **over 1,000 accredited India Clinical Trials sites** │
+│ - Strengthening of the **Central Drugs Standard Control Organisation         │
+│ (CDSCO)** with a dedicated **scientific review cadre and specialists** to    │
+│ meet global standards                                                        │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 2. 💻 Semiconductors & Electronics                                        │
+│ **Scheme: India Semiconductor Mission (ISM) 2.0**                            │
+│ - No separate outlay specified for ISM 2.0 in the speech, but it includes:   │
+│   - Production of **equipment and materials**                                │
+│   - Design of **full-stack Indian IP**                                       │
+│   - **Industry-led research and training centres** to develop technology and │
+│ a skilled workforce                                                          │
+│                                                                              │
+│ **Electronics Components Manufacturing Scheme**                              │
+│ - **Enhanced Outlay: ₹40,000 crore** (increased from the original ₹22,919    │
+│ crore launched in April 2025)                                                │
+│ - Deepens value addition in the electronics and components manufacturing     │
+│ sector                                                                       │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 3. 🌍 Carbon Capture, Utilisation & Storage (CCUS)                        │
+│ - **Outlay: ₹20,000 crore over 5 years**                                     │
+│ - Develops CCUS technologies across **five industrial sectors**: power,      │
+│ steel, cement, refineries, and chemicals                                     │
+│ - Focused on achieving higher technology readiness levels                    │
+│ (**industrial-scale R&D**)                                                   │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 4. ⚛️ Nuclear & Critical Minerals (Customs/Indirect Tax Support)          │
+│ - **Basic Customs Duty (BCD) exemption** extended on imports of goods        │
+│ required for **Nuclear Power Projects till 2035**, expanded to all nuclear   │
+│ plants                                                                       │
+│ - **BCD exemption** on capital goods for **processing of critical minerals** │
+│ in India                                                                     │
+│ - **Rare Earth Corridors** proposed in Odisha, Kerala, Andhra Pradesh &      │
+│ Tamil Nadu to promote **mining, processing, research and manufacturing**     │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 5. 🤖 Emerging Technologies (AI, Quantum, National Research)              │
+│ - The Budget explicitly references ongoing support through:                  │
+│   - **AI Mission**                                                           │
+│   - **National Quantum Mission**                                             │
+│   - **Anusandhan National Research Fund**                                    │
+│   - **Research, Development and Innovation (RDI) Fund**                      │
+│ - The **High-Powered E3 Standing Committee** *(Education to Employment and   │
+│ Enterprise)* will assess the **impact of AI on jobs and skill requirements** │
+│ and propose measures                                                         │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 6. 🌿 AYUSH / Traditional Medicine Research                               │
+│ - **WHO Global Traditional Medicine Centre in Jamnagar** to be upgraded to   │
+│ bolster **evidence-based research, training and awareness** for traditional  │
+│ medicine                                                                     │
+│ - **3 new All India Institutes of Ayurveda** to be set up                    │
+│ - AYUSH pharmacies and **Drug Testing Labs** to be upgraded for higher       │
+│ standards of certification                                                   │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 7. 🏥 Health / Medical Value Tourism                                      │
+│ - **5 Regional Medical Hubs** to be established with **integrated medical,   │
+│ educational and research facilities**                                        │
+│ - These hubs will include infrastructure for diagnostics, post-care, and     │
+│ rehabilitation                                                               │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 8. 🦽 Assistive Technology (Divyangjan)                                   │
+│ **Scheme: Divyang Sahara Yojana**                                            │
+│ - Support to **ALIMCO** (Artificial Limbs Manufacturing Corporation of       │
+│ India) to:                                                                   │
+│   - Scale up production of assistive devices                                 │
+│   - **Invest in R&D and AI integration**                                     │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 9. 🔭 Astrophysics & Astronomy                                            │
+│ - **4 Telescope Infrastructure Facilities** to be set up/upgraded:           │
+│   1. National Large Solar Telescope                                          │
+│   2. National Large Optical-infrared Telescope                               │
+│   3. Himalayan Chandra Telescope                                             │
+│   4. COSMOS-2 Planetarium                                                    │
+│ - These are classified as **scientific research infrastructure**             │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 10. 🎓 University Townships with Research Institutions                    │
+│ - **5 University Townships** to be established near major industrial and     │
+│ logistic corridors                                                           │
+│ - Each will host **multiple universities, colleges, and research             │
+│ institutions**                                                               │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 11. 🌾 Agriculture: Bharat-VISTAAR                                        │
+│ - **Bharat-VISTAAR** *(Virtually Integrated System to Access Agricultural    │
+│ Resources)*: A **multilingual AI tool** integrating AgriStack portals with   │
+│ ICAR's package of agricultural practices                                     │
+│ - Supports research-backed precision farming and customised advisory         │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## 12. 🧾 Tax Incentives Supporting R&D Industries                           │
+│                                                                              │
+│ | Measure | Detail |                                                         │
+│ |---|---|                                                                    │
+│ | **Safe harbour for Contract R&D services** | Contract R&D relating to      │
+│ software development clubbed under "IT Services" with a **15.5% safe harbour │
+│ margin**; threshold enhanced from ₹300 crore to **₹2,000 crore** |           │
+│ | **Tax holiday for data centres / cloud services** | Tax holiday till       │
+│ **2047** for foreign companies providing cloud/data services from India |    │
+│ | **Non-resident expert exemption** | Global income exemption for            │
+│ **non-resident experts** working in India for up to 5 years under notified   │
+│ schemes |                                                                    │
+│ | **Toll manufacturing incentive** | **5-year income tax exemption** for     │
+│ non-residents supplying capital goods/equipment/tooling to toll              │
+│ manufacturers in bonded zones |                                              │
+│ | **Lithium-Ion / Battery Storage R&D** | BCD exemption extended to capital  │
+│ goods for manufacturing **Lithium-Ion Cells for Battery Energy Storage       │
+│ Systems** |                                                                  │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ ## Summary Table                                                             │
+│                                                                              │
+│ | Sector | Scheme/Initiative | Outlay / Benefit |                            │
+│ |---|---|---|                                                                │
+│ | Biopharma | Biopharma SHAKTI | ₹10,000 cr over 5 yrs |                     │
+│ | Electronics | Electronics Components Manufacturing Scheme | ₹40,000 cr |   │
+│ | CCUS | Carbon Capture R&D | ₹20,000 cr over 5 yrs |                        │
+│ | Semiconductors | ISM 2.0 (Industry-led research) | Not quantified          │
+│ separately |                                                                 │
+│ | Nuclear | Customs duty exemption on imports | Till 2035 |                  │
+│ | Critical Minerals | Rare Earth Corridors + BCD exemption | Not quantified  │
+│ |                                                                            │
+│ | AYUSH | WHO Centre upgrade + new AII Ayurveda institutes | Not quantified  │
+│ |                                                                            │
+│ | Astronomy | 4 Telescope Facilities | Not quantified |                      │
+│ | Agriculture | Bharat-VISTAAR (AI/ICAR) | Not quantified |                  │
+│ | Divyangjan | ALIMCO R&D + AI integration | Not quantified |                │
+│ | Education | 5 University Townships with research institutions | Not        │
+│ quantified |                                                                 │
+│ | National-level | Anusandhan NRF + RDI Fund + AI + Quantum Missions |       │
+│ Referenced (ongoing) |                                                       │
+│ | Tax / IT | Contract R&D safe harbour at 15.5%, threshold ₹2,000 cr | Tax   │
+│ relief |                                                                     │
+│                                                                              │
+│ ---                                                                          │
+│                                                                              │
+│ > **Key Takeaway:** R&D investment in Budget 2026-27 is most heavily         │
+│ concentrated in **Biopharma (₹10,000 cr)**, **Electronics Manufacturing      │
+│ (₹40,000 cr)**, and **CCUS technologies (₹20,000 cr)**. Across sectors       │
+│ ranging from semiconductors to traditional medicine and astronomy, the       │
+│ Budget embeds research infrastructure as a core pillar of Viksit Bharat.     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+model=claude-sonnet-4-6 in=25412 out=2620 cost~$0.1155 57873ms
