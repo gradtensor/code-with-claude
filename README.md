@@ -53,8 +53,6 @@ git checkout post-01       # the state at Post 1's publish
 git checkout day-02-build  # the state at end of Day 2's build session
 ```
 
-Day 1 uses a legacy build tag name (`post-01-build` rather than `day-01-build`). Day 2 onward follows the standard pattern.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
