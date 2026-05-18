@@ -41,17 +41,23 @@ If the smoke test prints a streamed answer and token counts, your setup works.
 
 ## Following along
 
-Each day of the series has two git tags:
+Each day of the series has two git tags, aimed at two different audiences.
 
-- `day-NN-build` - the state of the repo at the end of the build session, before the post is written.
-- `post-NN` - the state of the repo when the post publishes, including any edits made during writing.
-
-Sixteen tags total across the eight days. The two states are not identical: small edits (clarifications, prompt hardening, eval polish) often land between the build and the publish. Both tags are kept so readers can check out either reference.
+**If you are reading the posts and want the code to match what each post discusses,** check out the matching `post-NN` tag:
 
 ```
-git checkout post-01       # the state at Post 1's publish
-git checkout day-02-build  # the state at end of Day 2's build session
+git checkout post-01    # code state as of when Post 1 published
+git checkout post-02    # code state as of when Post 2 published
 ```
+
+**If you are building along day by day and want the state at the end of each build session,** check out the matching `day-NN-build` tag:
+
+```
+git checkout day-01-build    # state at end of Day 1's build session
+git checkout day-02-build    # state at end of Day 2's build session
+```
+
+The two tags for a given day are not identical. Small edits (clarifications, prompt hardening, eval polish, post-2-artifacts archives) typically land between the build session and the post going live. Sixteen tags total across the eight days: eight `day-NN-build` and eight `post-NN`.
 
 ## License
 
