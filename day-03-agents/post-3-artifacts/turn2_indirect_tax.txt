@@ -1,0 +1,155 @@
+> What about the indirect tax changes you mentioned — which products are affected?
+
+Good follow-up. I already have the full indirect tax annexure text from the previous fetch, so let me run both entity and allocation extractors on it in parallel right now — no need to re-fetch.
+The allocation extractor correctly returns nothing — these are all duty rate changes, not spending allocations. Here is the full, structured breakdown of every product affected:
+
+---
+
+## Indirect Tax Changes: Products Affected
+
+The Budget makes changes across **four categories**: duty reductions, duty increases, lapsing of exemptions, and export promotion. All changes are to **Basic Customs Duty (BCD)** unless stated otherwise, and take effect from **2 February 2026** unless a different date is noted.
+
+---
+
+### A. Customs Duty Reductions — "To Nil" *(Section C.1)*
+
+These cuts are designed to reduce input costs, support domestic manufacturing, and boost export competitiveness:
+
+#### 🔵 Critical Minerals
+| Product | From | To |
+|---|---|---|
+| Monazite | 2.5% | **Nil** |
+
+#### 🟢 Renewable Energy
+| Product | From | To |
+|---|---|---|
+| Sodium antimonate *(for manufacture of solar glass)* | 7.5% | **Nil** |
+| Specified capital goods *(for manufacture of lithium-ion cells for Battery Energy Storage Systems)* | As applicable | **Nil** |
+
+#### ⚛️ Nuclear Energy
+| Product | From | To |
+|---|---|---|
+| All goods for nuclear power generation (tariff item **8401 30 00**) | 7.5% | **Nil** |
+| Control/Protector Absorber Rods & Burnable Absorber Rods for nuclear power (tariff item **8401 40 00**) | 7.5% | **Nil** |
+| All goods for **specified Nuclear Power Projects** registered with Customs Houses **on or before 30 September 2035** | As applicable | **Nil** |
+
+#### 💻 Electronics
+| Product | From | To |
+|---|---|---|
+| Specified goods for manufacture of **Microwave Ovens** (tariff item **8516 50 00**) | As applicable | **Nil** |
+
+#### ✈️ Civil Aviation
+| Product | From | To |
+|---|---|---|
+| Components, parts, and engines of aircraft *(for manufacture of aircraft and aircraft parts)* | As applicable | **Nil** |
+
+#### 🛡️ Defence
+| Product | From | To |
+|---|---|---|
+| Raw materials for manufacture of aircraft parts for **MRO** (Maintenance, Repair & Overhaul), imported by **Defence PSUs** | As applicable | **Nil** |
+
+#### 💊 Drugs & Medicines
+| Product | From | To |
+|---|---|---|
+| **17 new drugs/medicines** added to List 3 of exemption notification No. 45/2025-Customs | 5% / 10% | **Nil** |
+| Drugs, medicines & Food for Special Medical Purposes (FSMP) for **7 additional rare diseases** *(personal imports only)* | As applicable | **Nil** |
+
+#### 🧳 Personal Imports *(effective 1 April 2026)*
+| Product | From | To |
+|---|---|---|
+| **All dutiable goods** imported for personal use (Chapter heading **9804**) | 10% or 20% | **10%** (uniform) |
+
+---
+
+### B. Customs Duty Increases *(Section C.2)*
+
+These are protective/corrective increases, effective **2 February 2026**:
+
+#### 🧪 Chemicals
+| Product | From | To |
+|---|---|---|
+| **Potassium hydroxide** | Nil | **7.5%** |
+
+#### ☂️ Umbrellas & Parts *(anti-dumping style specific duty floor added)*
+| Product | From | To |
+|---|---|---|
+| Umbrellas (other than garden umbrellas) — tariff items **6601 9100 & 6601 9900** | 20% | **20% or ₹60/piece, whichever is higher** |
+| Parts, trimmings & accessories of umbrellas/walking sticks — tariff heading **6601–6602** | 10% | **10% or ₹25/kg, whichever is higher** |
+
+> The umbrella duty change introduces a **specific duty floor** on top of the ad valorem rate — a classic move to counter under-invoicing on low-cost imports.
+
+---
+
+### C. Exemptions Being Lapsed *(Section C.3)*
+
+These are existing concessional-rate exemptions being withdrawn. In most cases, the goods are now manufactured in India or imports have become negligible.
+
+#### From 2 February 2026:
+- Animals and birds imported by zoos
+- Alpha pinene
+- Artificial plasma
+- Ammonium phosphate / ammonium nitro-phosphate *(for manure or complex fertilisers)*
+- Potassium sulphate *(≤52% potassium oxide)* — **no change in effective rate**
+- Other diagnostic/laboratory reagents (heading **3822 90 90**) — **no change in effective rate**
+- INVAR (a nickel-iron alloy)
+- Coffee roasting, brewing, or vending machines *(for coffee processing)*
+- Parts of radio trunking terminals
+- CD-ROMs containing educational books/journals/newspapers
+- Loco simulators
+
+#### From 1 April 2026:
+- Naphtha *(for fertiliser manufacture)*
+- LPG *(for polyisobutylene manufacture by DTA units from SEZ)*
+- Silicon / un-diffused silicon wafers *(for solar cells/modules)* — **no change in effective rate**
+- Maltol *(for manufacture of deferiprone, a medicine)*
+- Specified goods for **Copper-T contraceptives**
+- EPDM rubber *(for insulated wires and cables)*
+- **Hydrophilic and hydrophobic non-woven fabrics** *(for manufacture of adult diapers)* — note: textile-adjacent
+- Spent catalyst/ash containing precious metals
+- Metal parts for electrical insulators
+- Pipes and tubes for boilers
+- Permanent magnets *(for synchronous generators >500kW for wind power)*
+- Zeolite *(for wash coat for catalytic converters)*
+- High-speed web offset printing machines with mailroom equipment
+- Cash dispensers/ATM parts
+- TV equipment and cameras imported by **foreign film units**
+- Photographic/filming equipment of foreign origin (re-imported into India)
+- Parts of **digital still image/video cameras**
+- Raw materials or parts for **e-Readers**
+- X-Ray tubes *(for medical/surgical/veterinary X-ray machines)*
+- Flat panel detectors *(for medical X-ray machines)*
+- Parts of **video games**
+- Motion pictures, music, gaming software on media *(for gaming consoles)*
+- **Castor oil cake** from SEZ to DTA (specific inter-zone exemption)
+
+---
+
+### D. Export Promotion — Customs Relief for Exporters *(Section D)*
+
+| Measure | Products Covered | Change |
+|---|---|---|
+| Duty-free input import limit raised | Seafood processing inputs | 1% → **3%** of FOB value of prior year's exports |
+| Re-export window doubled | **Textile/leather garments**, leather/synthetic footwear, other leather products | 6 months → **12 months** |
+| Duty-free input benefit extended | **Shoe Uppers** (previously only full footwear) | Now included |
+
+---
+
+### E. Central Excise Changes *(Section E)*
+
+| Measure | Product | Change |
+|---|---|---|
+| **Excise duty exclusion** | Value of Biogas/CBG contained in blended CNG | Excluded from transaction value for excise computation — effective tax relief on green fuel blending |
+| **NCCD revision** *(from 1 May 2026)* | Chewing tobacco, jarda scented tobacco, other tobacco | Statutory rate: 25% → **60%** — but effective rate **held at 25%** by notification (no real-world increase) |
+
+---
+
+### Quick Sectoral Impact Summary
+
+| Sector | Net Effect |
+|---|---|
+| **Renewable energy** | ✅ Positive — nil duty on solar glass inputs and BESS capital goods |
+| **Nuclear power** | ✅ Strongly positive — comprehensive nil duty on equipment and project goods |
+| **Civil aviation & defence** | ✅ Positive — nil duty on components and MRO materials |
+| **Pharmaceuticals**
+
+model=claude-sonnet-4-6 in=36076 out=3768 cost~$0.1647 78952ms iters=2 tool_calls=2

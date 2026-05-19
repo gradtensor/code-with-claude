@@ -1,0 +1,111 @@
+Budget Analyst v3  (interactive). Type 'exit', 'quit', or Ctrl-D to leave. Memory persists across turns.
+
+> How does this Budget affect the textile industry?
+
+Great question! Let me start by getting the full list of budget sections, so I can identify the most relevant ones to read.
+2026-05-18 20:03:15,278 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+I can see there's a dedicated textile section. Let me now read it, find cross-references, and simultaneously check the indirect tax and export sections for textile-specific customs/duty changes.
+2026-05-18 20:03:20,082 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+2026-05-18 20:03:20,085 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+Excellent! Now let me read the remaining highly relevant sections in parallel — the MSME/industrial clusters section, the SEZ/customs exports section, and the indirect tax amendments for any textile-specific duty changes.
+2026-05-18 20:03:27,197 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+2026-05-18 20:03:27,200 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+2026-05-18 20:03:27,204 INFO mcp.server.lowlevel.server Processing request of type CallToolRequest
+Now let me run entity and allocation extractions on the core textile section in parallel to make sure I haven't missed any figures.
+I now have a comprehensive, fully grounded picture. Here is the complete analysis:
+
+---
+
+## How Budget 2026-27 Affects the Textile Industry
+
+The Budget takes a broad, multi-pronged approach to textiles — combining a landmark new programme, infrastructure investment, export incentives, skilling, MSME support, and sustainability measures. Here is a sector-by-sector breakdown.
+
+---
+
+### 1. The Integrated Programme for Textiles (Core Policy — *"Textile, sports goods, and village industries"*)
+
+The centrepiece is a new **Integrated Textile Programme** with five distinct sub-parts:
+
+| Sub-scheme | What it does |
+|---|---|
+| **National Fibre Scheme** | Promotes self-reliance in natural fibres (silk, wool, jute), man-made fibres, and new-age fibres |
+| **Textile Expansion and Employment Scheme** | Modernises traditional clusters via capital support for machinery, technology upgradation, and common testing & certification centres |
+| **National Handloom and Handicraft Programme** | Consolidates existing schemes to deliver targeted support for weavers and artisans |
+| **Tex-Eco Initiative** | Promotes globally competitive and *sustainable* textiles and apparels |
+| **Samarth 2.0** | Upgrades the textile skilling ecosystem through collaboration with industry and academic institutions |
+
+---
+
+### 2. Mega Textile Parks
+
+Beyond the Integrated Programme, the Budget proposes to set up **Mega Textile Parks in challenge mode**, with an explicit focus on **technical textiles** and value addition. This signals a push up the textile value chain, beyond conventional apparel/fabric manufacturing.
+
+---
+
+### 3. Mahatma Gandhi Gram Swaraj Initiative
+
+A new **Mahatma Gandhi Gram Swaraj** initiative will strengthen **khadi, handloom, and handicrafts** with support for:
+- Global market linkage and branding
+- Training, skilling, and quality improvement
+- Synergy with the **One-District-One-Product** initiative
+- Benefits for weavers, village industries, and rural youth
+
+---
+
+### 4. Export Incentives — Customs/Indirect Tax Measures (*"Indirect Taxes: review of exemptions and export promotion"* + *Annexure*)
+
+Two direct relief measures for textile exporters:
+
+- **Extended re-export window:** The time period for export of the final product — using duty-free imported inputs — has been **extended from 6 months to 12 months** for exporters of **leather or textile garments**. This gives exporters significantly more operational flexibility.
+- **Export promotion on inputs:** The existing duty-free import benefit on specified inputs (currently for leather/synthetic footwear) is being extended to **Shoe Uppers**, which is directly relevant to textile-linked accessories manufacturing.
+
+These changes are confirmed in the Indirect Tax Annexure (Section D.2 and D.3).
+
+---
+
+### 5. MSME & Cluster Support — Indirect Benefit to Textile SMEs (*"Legacy industrial clusters and Champion MSMEs"*)
+
+Textile manufacturing is heavily MSME-driven. The Budget offers three layers of support that directly benefit textile SMEs:
+
+- **₹10,000 crore SME Growth Fund** — equity support to create "Champion" enterprises
+- **₹2,000 crore top-up to the Self-Reliant India Fund** — sustains access to risk capital for micro enterprises
+- **TReDS reforms** — over ₹7 lakh crore has already been unlocked via the Trade Receivables Discounting System; new measures mandate TReDS for CPSE purchases from MSMEs, add credit guarantee support, link GeM to TReDS, and enable TReDS receivables as asset-backed securities — all improving liquidity for textile MSEs.
+- **Revival of 200 legacy industrial clusters** — many of India's legacy textile hubs (e.g., powerloom clusters) would qualify under this scheme, which targets infrastructure and technology upgradation.
+
+---
+
+### 6. E-Commerce Export Boost (*"Indirect Taxes: SEZs, customs process, ease of living"*)
+
+The Budget proposes the **complete removal of the ₹10 lakh per consignment value cap on courier exports**. This is highly significant for small textile artisans, handloom weavers, and apparel start-ups trying to sell directly to global buyers via e-commerce platforms — a barrier that previously limited their export scale.
+
+---
+
+### 7. Sustainability Angle
+
+The **Tex-Eco Initiative** signals that the Budget is aligning with global sustainability trends in textiles — likely covering eco-friendly production, certifications, and climate-compliant supply chains. This is relevant as major importing markets (EU, US) increasingly impose sustainability requirements on textile imports.
+
+---
+
+### Summary Table
+
+| Area | Measure | Specific Scheme/Section |
+|---|---|---|
+| Fibre self-reliance | Support for silk, wool, jute, MMF, new-age fibres | National Fibre Scheme |
+| Cluster modernisation | Capital support for machinery & certification | Textile Expansion and Employment Scheme |
+| Weavers/artisans | Consolidated scheme, targeted support | National Handloom & Handicraft Programme |
+| Sustainability | Eco-competitive textile & apparel production | Tex-Eco Initiative |
+| Skilling | Industry-academia collaboration | Samarth 2.0 |
+| Infrastructure | Parks focused on technical textiles | Mega Textile Parks |
+| Rural/village textiles | Khadi, handloom branding & global linkage | Mahatma Gandhi Gram Swaraj |
+| Export flexibility | Re-export window doubled: 6 → 12 months | Indirect Tax Annexure D.2 |
+| MSME equity | ₹10,000 crore fund for Champions | SME Growth Fund |
+| MSME liquidity | ₹7 lakh crore+ system enhanced | TReDS reforms |
+| E-commerce exports | ₹10 lakh courier cap removed entirely | Customs Process section |
+
+---
+
+### Overall Assessment
+
+This is arguably **one of the most comprehensive textile Budgets in recent years**. Rather than a single scheme, the government has architected an entire ecosystem — from raw fibre to skilled workers, from cluster infrastructure to global e-commerce exports, and from traditional handlooms to technical textiles. The sustainability and skilling components also suggest long-term structural reforms, not just short-term fiscal support. Notably, the Budget does **not explicitly state specific ₹ allocations** for the textile sub-schemes themselves (such as the Integrated Programme or Mega Textile Parks individually); those figures would be in the detailed expenditure budget documents rather than the speech.
+
+model=claude-sonnet-4-6 in=39122 out=2695 cost~$0.1578 65883ms iters=5 tool_calls=9

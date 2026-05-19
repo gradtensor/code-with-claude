@@ -1,0 +1,81 @@
+> Summarise what we've discussed.
+
+## Conversation Summary
+
+### Topic 1: How Budget 2026-27 Affects the Textile Industry
+
+The textile sector receives a wide-ranging **Integrated Textile Programme** built around **five sub-schemes**:
+
+| Sub-Scheme | Purpose |
+|---|---|
+| **National Fibre Scheme** | Self-reliance in silk, wool, jute, man-made, and new-age fibres |
+| **Textile Expansion and Employment Scheme** | Capital support for machinery, technology upgradation, and testing centres in traditional clusters |
+| **National Handloom and Handicraft Programme** | Consolidates existing schemes; targeted support for weavers and artisans |
+| **Tex-Eco Initiative** | Globally competitive and sustainable textiles and apparel |
+| **Samarth 2.0** | Skilling ecosystem upgrade via industry–academia collaboration |
+
+**Additional textile measures included:**
+- **Mega Textile Parks** (challenge mode), with a focus on technical textiles
+- **Mahatma Gandhi Gram Swaraj initiative** for khadi, handloom, handicrafts, global branding, and rural livelihoods
+- **MSME support**: ₹10,000 crore SME Growth Fund, ₹2,000 crore Self-Reliant India Fund top-up, and TReDS reforms unlocking ₹7 lakh crore in liquidity
+- **Export facilitation**: re-export window extended from 6 to 12 months for garment exporters; duty-free Shoe Uppers; removal of ₹10 lakh courier export value cap for e-commerce
+
+> **Note:** No single aggregate rupee figure was disclosed for the Integrated Textile Programme itself.
+
+---
+
+### Topic 2: Indirect Tax Changes — Affected Products
+
+The budget made **no new spending allocations** here; these were all **duty rate changes**. Four categories were identified:
+
+1. **Customs duty cuts to Nil** — covering critical minerals (monazite), renewable energy inputs, nuclear power equipment, electronics components, civil aviation parts, defence materials, and 17 new drugs/medicines.
+
+2. **Customs duty increases** — potassium hydroxide raised to 7.5%; umbrellas given an added specific-duty floor.
+
+3. **Lapsing exemptions** — effective February 2 and April 1, 2026; items affected include naphtha, silicon wafers, and e-reader parts (duty relief removed).
+
+4. **Export promotion measures** — duty-free seafood input limits raised from 1% to 3%; garment re-export window extended to 12 months; shoe uppers coverage expanded.
+
+Additionally, **central excise changes** included exclusion of biogas/CBG value from excise calculations and upward revision of tobacco duties.
+
+---
+
+### Topic 3: Textile Manufacturing Incentives vs. Electronics Components Scheme
+
+This was a detailed head-to-head comparison across six dimensions:
+
+#### Financial Outlay
+- **Electronics Components Manufacturing Scheme (ECMS):** ₹40,000 crore — revised upward from the original ₹22,919 crore (launched April 2025) after investment commitments reached double the target. One of the largest single-scheme manufacturing allocations in the Budget.
+- **Integrated Textile Programme:** No disclosed aggregate outlay.
+
+#### Programme Architecture
+- **Electronics** is **narrow and deep** — vertically integrated from rare earth mining → component processing → finished electronics, supported by ISM 2.0 (full-stack Indian IP, equipment, supply chains), Rare Earth Corridors (Odisha, Kerala, Andhra Pradesh, Tamil Nadu), and Hi-Tech Tool Rooms (2 CPSE locations).
+- **Textiles** is **broad and horizontal** — five sub-schemes covering fibres, clusters, artisans, sustainability, and skilling, plus Mega Parks and the Gram Swaraj initiative.
+
+#### Nature of Incentives
+- **Electronics** leads on: capital/investment subsidy, R&D and IP development, upstream raw material security (Rare Earth Corridors), and customs duty cuts on inputs.
+- **Textiles** leads on: artisan/informal sector coverage, sustainability (Tex-Eco), dedicated skilling (Samarth 2.0), social inclusion, and direct export facilitation measures.
+
+#### Customs Duty Support
+- **Electronics** received proactive BCD cuts to Nil on microwave oven components and lithium-ion cell capital goods.
+- **Textiles** received trade facilitation (longer re-export windows, more eligible products) but also saw some exemptions *lapse* on inputs like non-woven fabrics.
+
+#### Strategic Intent
+- **Electronics:** Global supply-chain repositioning, import substitution, and IP creation — primarily an industrial competitiveness play.
+- **Textiles:** Combines export competitiveness with a strong employment and social inclusion agenda, explicitly described as supporting the "labour-intensive" sector.
+
+#### Overall Winner by Parameter
+| Parameter | Electronics | Textiles |
+|---|---|---|
+| Financial firepower | 🏆 ₹40,000 crore hard allocation | No figure disclosed |
+| Programme specificity | 🏆 Tightly targeted value-chain gaps | Broader but less quantified |
+| Breadth of coverage | Narrow (components/semiconductors) | 🏆 Full ecosystem, including informal sector |
+| Social/inclusion focus | Minimal | 🏆 Very prominent |
+| Customs duty support | 🏆 Proactive input duty cuts | Facilitation + some exemption removal |
+| Export promotion | Indirect | 🏆 Direct and specific measures |
+
+---
+
+*All figures and scheme names are grounded in the Budget 2026-27 speech sections retrieved during this conversation. No figures have been inferred or invented.*
+
+model=claude-sonnet-4-6 in=10540 out=1358 cost~$0.0520 30384ms iters=1 tool_calls=0 summarised
