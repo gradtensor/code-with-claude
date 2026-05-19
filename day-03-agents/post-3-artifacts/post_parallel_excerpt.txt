@@ -1,0 +1,32 @@
+demo_parallel.py — parallelism evidence
+========================================
+
+Question: "For the textile sector, list the entities mentioned, the rupee
+allocations made, and any cross-references to other Budget sections. Call the
+relevant analyst tools in parallel after reading the textile section."
+
+Tool call timeline (started_at_ms is offset from the iteration's first API call):
+
+  Iter  Tool                    Started (ms)   Duration (ms)   Status
+  ----  ----------------------  -------------  --------------  ------
+  0     list_budget_sections    2685           12              OK
+  1     read_budget_section     3703           6               OK
+  2     extract_entities        10949          3438            OK
+  2     extract_allocations     10950          915             OK
+  2     find_cross_references   10950          3496            OK
+
+Iteration 2 is the parallel block. All three analyst tools start within 1ms of
+each other (10949, 10950, 10950) and finish at different times (their durations
+diverge: 915ms, 3438ms, 3496ms).
+
+  Serial-equivalent (sum of durations):  7848 ms
+  Parallel wall-clock (max end - min start): 3497 ms
+  Speedup: 2.24x
+
+Run totals: in=13194 tok  out=2138 tok  cost~$0.0717  total 39.3s  iters=4
+
+Implementation note: the agent walks the assistant message's content blocks; if
+two or more are tool_use, it dispatches them on a ThreadPoolExecutor and only
+emits the tool_result blocks once all have returned. The recorded started_at_ms
+and duration_ms come from time.perf_counter() bracketing each handler call, so
+the timestamps reflect actual handler wall-clock, not the model's stream order.

@@ -103,6 +103,9 @@ def main() -> None:
         console.print(f"[dim]{len(agent.messages)} messages in history[/dim]")
         for i, m in enumerate(agent.messages):
             console.print(f"  [{i:2d}] {_summarise_message(m)}")
+        if agent._history_summary:
+            console.print(Rule("Accumulated history summary (injected into system prompt)"))
+            console.print(Panel(agent._history_summary, border_style="yellow"))
         console.print(
             f"\n[bold]Session: turns={len(TURNS)} "
             f"summarisation_events={summarisation_events} "

@@ -1,0 +1,54 @@
+demo_error_handling.py — graceful tool-error recovery
+======================================================
+
+Injected failure:
+  A registered tool named `read_budget_section_alt` is wired to a handler that
+  unconditionally raises:
+
+      def _broken_handler(_args: dict) -> str:
+          raise RuntimeError(
+              "simulated upstream failure: section database unreachable"
+          )
+
+  The system prompt explicitly tells the agent: "you should try this first.
+  If a tool fails, explain the failure to the user clearly and proceed with
+  whatever tools still work."
+
+Question: "Use read_budget_section_alt to get the textile section and
+summarise its key points."
+
+What the agent did (3 tool calls across 4 iterations):
+
+  Iter 1:  list_budget_sections          OK     (discovers what's available)
+  Iter 2:  read_budget_section_alt       ERR    RuntimeError: simulated upstream
+                                                failure: section database
+                                                unreachable
+  Iter 3:  read_budget_section           OK     (fell back to the working tool)
+  Iter 4:  (text answer, no tool calls)
+
+How the error surfaced: the Agent.run() loop catches the RuntimeError, records
+it on the ToolCallRecord, and emits a tool_result block with is_error=True
+containing the text "ERROR: RuntimeError: simulated upstream failure: section
+database unreachable". The model sees that block on the next iteration and
+treats it as a normal tool failure — no exception propagates to the user.
+
+Final answer (first lines, as printed to the console):
+
+  > Tool Note: read_budget_section_alt failed with a simulated upstream
+  > failure (section database unreachable). I successfully fell back to
+  > read_budget_section to retrieve the content.
+  >
+  > ---
+  >
+  > Textile Section - Key Points Summary
+  >
+  > Here is a structured summary of the Textile, Sports Goods, and Village
+  > Industries section from the Union Budget 2026-27:
+  > [... five-part Integrated Programme, Mega Textile Parks, Mahatma Gandhi
+  > Gram Swaraj, Sports Goods, overall takeaways ...]
+
+The agent neither apologised excessively nor retried the broken tool — it
+acknowledged the failure in one line, called the working sibling tool, and
+delivered the requested summary.
+
+Run totals: in=10113 tok  out=943 tok  cost~$0.0445  total 20.6s  iters=4

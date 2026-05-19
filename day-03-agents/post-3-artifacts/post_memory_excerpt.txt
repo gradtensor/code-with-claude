@@ -1,0 +1,79 @@
+demo_memory.py — summarisation evidence
+========================================
+
+Setup: memory_token_budget=4000 (tight on purpose); 4 conversational turns.
+The agent checks _messages_tokens(self.messages) > budget at the START of each
+run() call, and if so, cuts the history at the most recent end-of-turn
+boundary and replaces the cut prefix with a single-paragraph summary stored in
+agent._history_summary (injected into the system prompt on subsequent calls).
+
+Per-turn token+summary trace:
+                                                                tool
+  Turn  Question                                       in_tok   calls  summarised
+  ----  ---------------------------------------------  -------  -----  ----------
+  1     How does this Budget affect the textile         15365   7      False
+        industry?
+  2     What about the customs duty changes you         40651   2      False
+        mentioned - which products are affected?
+  3     And the SEZ provisions - are they only for      55183   5      True
+        textiles or general?
+  4     Summarise everything we discussed about         6898    0      True
+        textiles.
+
+Summarisation fired going INTO turn 3 (history was 55k tokens before the turn 3
+LLM call, then got cut). Fired again going into turn 4 — that's why turn 4's
+input is only 6.9k tokens despite being the fourth turn of a long conversation.
+
+Final messages-state (10 messages survived; turns 1 & 2 fully replaced by
+summary):
+  [ 0] user: And the SEZ provisions - are they only for textiles or general?
+  [ 1] assistant: text(159c), tool_use(list_budget_sections)
+  [ 2] user: tool_result(6406c)
+  [ 3] assistant: text(152c), tool_use(read_budget_section), tool_use(read_budget_section)
+  [ 4] user: tool_result(4980c), tool_result(1467c)
+  [ 5] assistant: text(90c), tool_use(extract_entities)
+  [ 6] user: tool_result(513c)
+  [ 7] assistant: text(3188c)
+  [ 8] user: Summarise everything we discussed about textiles.
+  [ 9] assistant: text(4177c)
+
+Accumulated history summary (the paragraph that replaced turns 1+2, generated
+by Claude Haiku and injected into the system prompt before each subsequent
+turn):
+
+  The user asked how Budget 2026-27 affects the textile industry. The
+  assistant used list_budget_sections to identify relevant sections, then
+  read_budget_section multiple times to extract details on textiles, indirect
+  taxes, and exports. It also called find_cross_references to locate related
+  sections and extract_entities to identify specific allocations and programs.
+  The comprehensive response detailed five main textile initiatives: the
+  Integrated Textile Programme (covering the National Fibre Scheme, Textile
+  Expansion & Employment Scheme, National Handloom & Handicraft Programme,
+  Tex-Eco Initiative, and Samarth 2.0 skilling), Mega Textile Parks with focus
+  on technical textiles, the Mahatma Gandhi Gram Swaraj Initiative, legacy
+  cluster revival with Rs 10,000 crore SME Growth Fund and Rs 2,000 crore for
+  micro enterprises, and export promotion measures including extended export
+  timelines (6 months to 1 year), removal of Rs 10 lakh e-commerce caps, and
+  customs simplification. The user asked which products are affected by
+  customs duty changes mentioned earlier. The assistant used two tools —
+  read_budget_section and extract_allocations — to retrieve detailed
+  information from the indirect tax annexure. The results showed that while
+  there are no direct rupee-value customs duty changes for textiles, several
+  procedural changes apply: the export window for textile and leather garments
+  made from duty-free imports extended from 6 months to 12 months (effective
+  02.02.2026), duty-free input exemptions extended to shoe-uppers exporters,
+  and the e-commerce courier cap of Rs 10 lakh per consignment removed.
+  However, the customs duty exemption on hydrophilic and hydrophobic non-woven
+  fabrics imported for adult diaper manufacturing lapses effective 01.04.2026.
+  The assistant clarified that basic customs duty rates on yarn, fabric,
+  apparel, and made-up goods remain unchanged, with tariff amendments covering
+  only non-textile chapters (3, 8, 12, 13, 20-22, 25-26, 28-29, 33, 39, 41,
+  47, 48, 73, 81, 84-86).
+
+Notable: turn 4 then asks "summarise everything we discussed" and the agent
+answers correctly using ONLY this paragraph plus the surviving turn 3 messages
+— no tool calls made (tool_calls=0). The summary preserved enough specifics
+(scheme names, rupee amounts, dates) that the model could synthesise a final
+recap without re-fetching anything.
+
+Session totals: turns=4  summarisation_events=2  total_cost=$0.4498
